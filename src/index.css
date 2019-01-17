@@ -1,0 +1,37 @@
+.imgrow {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  min-width: 300px;
+  margin: 20px auto;
+  transition: 0.4s;
+}
+
+.imgrow a {
+  margin: 0 20px;
+}
+
+.imgrow a:hover {
+  opacity: 0.5;
+  transition: 0.4s;
+}
+
+.info {
+  color: rgba(160, 160, 160, 1);
+  width: 600px;
+  margin: auto;
+  text-align: justify;
+}
+
+.info a {
+  text-decoration: none;
+  color: rgba(18, 151, 224, 1);
+}
+
+@media (min-resolution: 150dpi) {
+  .info {
+    width: 90%;
+    font-size: 0.8em;
+    margin-top: 16px;
+  }
+}

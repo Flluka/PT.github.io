@@ -1,0 +1,43 @@
+.root {
+  margin-top: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.root h1 {
+  font-size: 50px;
+  margin: 0;
+  min-width: 300px;
+  text-align: center;
+  color: rgba(102, 102, 102, 1);
+}
+
+.large {
+  margin: auto;
+  width: 300px;
+  height: 300px;
+}
+
+.small {
+  margin: auto;
+  width: 40px;
+  height: 40px;
+}
+
+@media (min-resolution: 150dpi) {
+  .large {
+    width: 500px;
+    height: 500px;
+  }
+
+  .root h1 {
+    font-size: 70px;
+  }
+
+  .small {
+    width: 55px;
+    height: 55px;
+  }
+}

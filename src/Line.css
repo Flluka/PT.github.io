@@ -1,0 +1,50 @@
+.root {
+  margin-top: 40px;
+}
+
+.root h1 {
+  min-width: 300px;
+}
+
+hr.line {
+  max-width: 700px;
+  border: 0;
+  height: 2px;
+  background-image: -webkit-linear-gradient(
+    left,
+    #f0f0f0,
+    rgba(102, 102, 102, 1),
+    #f0f0f0
+  );
+  background-image: -moz-linear-gradient(
+    left,
+    #f0f0f0,
+    rgba(102, 102, 102, 1),
+    #f0f0f0
+  );
+  background-image: -ms-linear-gradient(
+    left,
+    #f0f0f0,
+    rgba(102, 102, 102, 1),
+    #f0f0f0
+  );
+  background-image: -o-linear-gradient(
+    left,
+    #f0f0f0,
+    rgba(102, 102, 102, 1),
+    #f0f0f0
+  );
+}
+
+.txt {
+  font-size: 25px;
+  margin: 0;
+  text-align: center;
+  color: rgba(102, 102, 102, 1);
+}
+
+@media (min-resolution: 150dpi) {
+  hr.line {
+    max-width: 95%;
+  }
+}

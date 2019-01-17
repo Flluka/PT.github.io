@@ -1,0 +1,31 @@
+th,
+td {
+  color: rgba(160, 160, 160, 1);
+  font-weight: normal;
+}
+
+tr {
+  width: 300px;
+  min-width: 300px;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(18, 151, 224, 1);
+}
+
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media (min-resolution: 150dpi) {
+  tr {
+    font-size: 30px;
+    width: 60%;
+  }
+}
