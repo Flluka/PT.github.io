@@ -363,7 +363,7 @@ const questions = [
     answer2: "CS",
     answer3: "NS",
     answer4: "CS",
-    correctAnswer: 2
+    correctAnswer: 1
   },
   {
     question: "Convective clouds are formed",
