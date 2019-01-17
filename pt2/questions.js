@@ -270,14 +270,7 @@ const questions = [
     correctAnswer: 4
   },
   {
-    question: "Convective clouds are formed",
-    answer1: "In mid latitudes only",
-    answer2: "in a stable layer of air",
-    answer3: "in an unstable air mass",
-    answer4: "in summer during the day only",
-    correctAnswer: 3
-  },
-  {
+
     question:
       "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform appearence, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged pathes",
     answer1: "Ns",
@@ -311,14 +304,6 @@ const questions = [
     answer2: "chane the radiation fog to advection fog",
     answer3: "cause the fog to lift and become low stratus",
     answer4: "no effect",
-    correctAnswer: 3
-  },
-  {
-    question: "Convective clouds are formed",
-    answer1: "In mid latitudes only",
-    answer2: "in a stable layer of air",
-    answer3: "in an unstable air mass",
-    answer4: "in summer during the day only",
     correctAnswer: 3
   },
   {
