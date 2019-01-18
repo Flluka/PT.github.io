@@ -2,149 +2,146 @@ const questions = [
   {
     question:
       "The radius of the Earth is approximately:",
-    answer1: "Advection fog",
-    answer2: "Radiation fog ",
-    answer3: "Steam fog ",
-    answer4: "Frontal fog",
-    correctAnswer: 1
+    answer1: "40 000km",
+    answer2: "6 350km ",
+    answer3: "22 000km",
+    answer4: "20 000km",
+    correctAnswer: 2
   },
   {
     question:
       "An aircraft at latitude 02°20´N tracks 180°T for 685 kilometres. What is its latitude at the end of the flight",
-    answer1: "nil",
-    answer2: "Light",
-    answer3: "Moderate or Heavy",
-    answer4: "heavy, possibly hail",
-    correctAnswer: 3
-  },
-  {
-    question: "Wha is the initial great circle track from Porto Alegre, Brazil (29°12´S 051°00´W) to durban, South africa (29°12´S 031°00´E)?",
-    answer1: "is generally weaker at higher level or with greater thickness",
-    answer2: "is generally stronger at lower level or with greater thickness",
-    answer3: "is generally weaker at lower level or with less thickness",
-    answer4: "is generally stronger at higher level with greater thickness",
-    correctAnswer: 4
-  },
-  {
-    question: "From position A(10°00.0´N 030°00.0´W) an aircraft flies 600NM due south, then 600NM due East, then 600NM due North, then 600NM due West.What is the final direction of the track at B?",
-    answer1: "Ns",
-    answer2: "Ac",
-    answer3: "Ci",
-    answer4: "Cs",
+    answer1: "08°29´N",
+    answer2: "06°01´N",
+    answer3: "02°45´S",
+    answer4: "03°50´S",
     correctAnswer: 1
   },
   {
-    question:
-      "The direction of initial great circle track from C(48S 170W) to B (58S 150W) is 130°T. What is the final  direction of the track.",
-    answer1: "Coriolis force is added to the pressure gradient",
-    answer2: "Coriolis force opposes centrifugal force",
-    answer3: "Centrifugal force opposes the pressure gradient",
-    answer4: "Centrifugal force is added the pressure gradient",
+    question: "What is the initial great circle track from Porto Alegre, Brazil (29°12´S 051°00´W) to durban, South africa (29°12´S 031°00´E)?",
+    answer1: "110°T",
+    answer2: "130°T",
+    answer3: "105°T",
+    answer4: "115°T",
+    correctAnswer: 1
+  },
+  {
+    question: "A line drawn on a chart which joins all points where the value of magnetic variation is zero is called an:",
+    answer1: "Isogonal",
+    answer2: "aclinic line",
+    answer3: "agonic line",
+    answer4: "isotach",
     correctAnswer: 3
+  },
+  {
+    question:
+      "What is the initial great circle track from sydney, Australia (30S150E) to Bueons Aires, Argentina (30W030W)?",
+    answer1: "180°T",
+    answer2: "150°T",
+    answer3: "190°T",
+    answer4: "178°T",
+    correctAnswer: 1
   },
   {
     question:
       "An approximate equation for calculation conversion angle is: ",
-    answer1: "290/20",
-    answer2: "290/40",
-    answer3: "230/10",
-    answer4: "215/5",
-    correctAnswer: 2
+    answer1: "CA=0.5 x dlong x sin(mean lat)",
+    answer2: "CA=dlong x sin(mean lat) x sin(long)",
+    answer3: "CA=(dlong-dlat) x 0.5",
+    answer4: "CA=0.5 x dlat x sin(mean lat)",
+    correctAnswer: 1
   },
   {
-    question: "In the southern hemisphere the true direction of an westerly Great Circle will:",
-    answer1: "Thermal",
-    answer2: "Orographic",
-    answer3: "Frontal",
-    answer4: "formed by lifting processes",
-    correctAnswer: 3
+    question: "When flying on a westerly great circle track in the Southern hemisphere you will:",
+    answer1: "fly a spiral and finally end ut at the south pole",
+    answer2: "experience an increase in the value of track",
+    answer3: "aleays have the rhumb line track between the departure point and the destination to the left of your great circle track",
+    answer4: "experience a decrease in the value of true track",
+    correctAnswer: 2
   },
   {
     question:
       "What is the maximum possible value of Dip Angle",
-    answer1: "surface cooling",
-    answer2: "decreasing wind speed",
-    answer3: "Surface heating",
-    answer4: "Lifting against the slope of a hill",
-    correctAnswer: 3
+    answer1: "0°",
+    answer2: "90°",
+    answer3: "350°",
+    answer3: "170°",
+    answer4: "89°",
+    correctAnswer: 2
   },
   {
     question:
       "In the northern hemisphere, the true direction of an westerly Great Circle will",
-    answer1: "Is inclined towards the area of low pressure",
-    answer2: "Is inclined towards the area of high pressure",
-    answer3:
-      "Blows along the isobars with high pressure to the left in the northern hemisphere",
-    answer4:
-      "blows along the isobars with high pressure to the right in the northern hemisphere",
-    correctAnswer: 1
-  },
-  {
-    question: "A great circle track joins position A(59°S 141°W) and B (51°S 148°W) How does the true track change whhen flying from position A to position B?",
-    answer1: "200ft",
-    answer2: "800ft",
-    answer3: "2000ft",
-    answer4: "10000ft",
+    answer1: "Increase",
+    answer2: "Decrease",
+    answer3: "Be the same",
+    answer4: "all the answers are correct",
     correctAnswer: 2
   },
   {
+    question: "You start from P (70°00.0´N 015°00.0´E) and fly westward along the parallel of latitude for 2 hours at ground speed 220kt. Whar is your longitude after two hoursus flight?",
+    answer1: "006°26.0´W",
+    answer2: "006°44.0´W",
+    answer3: "006°78.0´W",
+    answer4: "006°26.0´E",
+    correctAnswer: 1
+  },
+  {
     question: "Seasons are due to the:",
-    answer1: "more strongly around a headland",
-    answer2: "Along a narrow valley",
-    answer3: "Down the side of ravine",
-    answer4: "up the side of ravine",
+    answer1: "Earths elliptical orbit around the sun",
+    answer2: "inclination of the polar axis with the ecliptic plane",
+    answer3: "Earths rotation on its polar axis",
+    answer4: "variable distance between Earth and Southern",
     correctAnswer: 2
   },
   {
     question: "The direction of the Earths rotation in its axis is such that",
-    answer1: "Ns",
-    answer2: "St",
-    answer3: "Ac",
-    answer4: "Cc",
-    correctAnswer: 4
+    answer1: "observed from the point above the North Pole, the rotation is counterclockwise",
+    answer2: "an observer on the surface of the Earth always will face West when observing sunrise",
+    answer3: "any point on the surface of the Earth will move eastward",
+    answer4: "any point on the surface of the Earth will move westward",
+    correctAnswer: 1
   },
   {
     question: "Meridians are:",
-    answer1: "lol",
-    answer2:
-      "A change of horizontal wind direction and/or speed with horizontal distance",
-    answer3: "A change of vertical wind direction and/or speed",
-    answer4:
-      "A change of horizontal wind direction and/or speed with change in level",
-    correctAnswer: 4
+    answer1: "parallel, equally spaced, vertically straight lines",
+    answer2: "inclined, equally spaced straight lines that meet at the nearer pole",
+    answer3: "parallel, unequally spaced, vertical straight lines",
+    answer4: "inclined, unequally spaced, curved lines that meet at the nearer pole",
+    correctAnswer: 1
   },
   {
     question: "Keplers second law states that",
-    answer1: "a marked increase in ground wind speed",
-    answer2: "a marked increase in wind speed close to the ground",
-    answer3: "warm air moving over warm surface",
-    answer4: "Ground cooling due to radiation",
-    correctAnswer: 4
+    answer1: "the radius vector sun-earth sweeps out equal areas in equal time",
+    answer2: "the length of the radius vector sun-earth is directly proportional to the square root of its angular speed",
+    answer3: "the radius vector sun-earth moves at constant angular speed",
+    answer4: "the area swept out by the radius vector sun-earth per hour increases with increasing lenght of the radius vector",
+    correctAnswer: 1
   },
   {
-    question: "The magnetic equator is best defined as:",
-    answer1: "greater than 1000m visibility, no icing",
-    answer2: "greater than 1000ft visibility, no icing",
-    answer3: "greater than 1000m visibility, icing",
-    answer4: "greater than 1000ft visibility, icing",
+    question: "The convergency of meridians",
+    answer1: "is the angular difference between meridians",
+    answer2: "is the distance between the meridians in degrees, minutes and seconds",
+    answer3: "is independent of latitude and longitude",
+    answer4: "is greater using rhumb line track than using greater circle",
     correctAnswer: 1
   },
   {
     question:
       "Parallels of latitude, except the equator are:",
-    answer1: "Extreme Turbulence",
-    answer2: "Light Turbulence",
-    answer3: "Severe Turbulence",
-    answer4: "Moderate Turbulence",
-    correctAnswer: 4
+    answer1: "both rhumb lines and great circles",
+    answer2: "Great circles",
+    answer3: "rhumb lines",
+    answer4: "are neither rhumb lines nor great circles",
+    correctAnswer: 3
   },
   {
     question:
       "The compression factor of the earth is approximately",
-    answer1: "Light Turbulence",
-    answer2: "Extreme Turbulence",
-    answer3: "Severe Turbulence",
-    answer4: "Moderate Turbulence",
+    answer1: "is so small that it may be ignored when making ordinary maps and chart",
+    answer2: "is about 1:300",
+    answer3: "makes the difference between the polar diameter and the equatorial diamter about 22NM",
+    answer4: "All Answers are correct",
     correctAnswer: 4
   },
   {
@@ -156,70 +153,128 @@ const questions = [
     correctAnswer: 4
   },
   {
-    question:
-      "Which is the correct equation for Departure",
-    answer1:
-      "Conditional instability, wind speed constant from a direction parallel to the mountain range",
-    answer2:
-      "Wind speed excess of 20kt at the surface and increasing with height, wind direction perpendicular to the general direction of the range",
-    answer3:
-      "Significant moisture loss due to precipitation, rapid lowering of the tropopause in the area of the mountain range.",
-    answer4:
-      "Steep dry adiabatic lapse rate, wind speed increasing and changing direction rapidly with increase in height",
+    question:"Consider the following statements on departure",
+    answer1: "as the difference of longitude increases, the departure is constant if the latitude is constant",
+    answer2: "as the latitude increases, the departure between two meridians decreases",
+    answer3: "departure may be calculated using the equation: departure = Sin(Lat) x Sin(Long)",
+    answer4: "departure is independent of difference of longitude",
     correctAnswer: 2
   },
   {
     question:
       "Consider the following statements on rhumb lines",
-    answer1: "precipitation is liftedd by air blowing over the hills",
-    answer2: "High RH, Unstable air",
-    answer3: "Clear sky, little wind, dry air",
-    answer4: "Humid, stable air blowing onto a range of hills",
-    correctAnswer: 4
+    answer1: "most rhumb lines will run as spirals from the one pole to another",
+    answer2: "a rhumb line will never cross a great circle",
+    answer3: "a rhumb line and a great circle will never have the same true direction for some distance",
+    answer4: "the true direction of a rhumb line on northern hemisphere will increase in true direction, while on southern hemisphere it will decrease",
+    correctAnswer: 1
   },
   {
     question:
-      "When flying on a westerly great circle track in the southern hemisphere you will",
-    answer1: "Backs then steady",
-    answer2: "Constantly backs",
-    answer3: "Backs then veers",
-    answer4: "Veers then backs",
-    correctAnswer: 2
+      "What is the change of longitude between A(45°00´N 163°14´E) and B(31°33´N 157°02E",
+    answer1: "6°12´W",
+    answer2: "13°27´W",
+    answer3: " 7°13´W",
+    answer4: "6°12´E",
+    correctAnswer: 1
   },
   {
     question:
       "Postion A is (31°00´S, 176°17´W) rhumb line track (T) from A to B is 270°. Initial great circle track (T) from A to B is 266.2°. The approximate position of B is:",
-    answer1: "Charles Law",
-    answer2: "Boyles Law",
-    answer3: "Normands Theorem",
-    answer4: "Buys Ballots law",
-    correctAnswer: 4
+    answer1: "(31°00´S, 161°32´W)",
+    answer2: "(31°00´S, 173°24´E)",
+    answer3: "(31°00´S, 168°58´E)",
+    answer4: "(31°00´S, 173°24´W)",
+    correctAnswer: 3
   },
   {
     question:
       "Consider the following statements on the properties of a great circle:",
-    answer1: "Impossible to asses",
-    answer2: "greater",
-    answer3: "Exactly the same",
-    answer4: "less",
-    correctAnswer: 4
+    answer1: "the great circle will maintain their initial true direction",
+    answer2: "the parallels of latitudes are all great circles",
+    answer3: "the great circle running through two positions on the surface of the Earth, is the shortest distance between these two postions",
+    answer4: "all answers are Correct",
+    correctAnswer: 3
   },
   {
     question:
-      "An aircraft at postion 60°N 005°W tracks 090°(T) for 315km. On completion of the flight the longitude will be:",
-    answer1: "Veer and increase",
-    answer2: "back and increase",
-    answer3: "veer and decrease",
-    answer4: "back and decrease",
-    correctAnswer: 4
+      "An aircraft is on a heading of 111°C, Variation is 7E and Deviation 4E. What is the aircrafts True Heading?",
+    answer1: "122°T",
+    answer2: "114°T",
+    answer3: "120°T",
+    answer4: "118°T",
+    correctAnswer: 1
   },
   {
     question:
-      "What is the longitude of a postion 6NM to the East of 58°42´N 094°00´W?",
-    answer1: "The wind veers and increases by night",
-    answer2: "The wind backs and decreases by night",
-    answer3: "The wind veers and decreases by night",
-    answer4: "The wind backs and increases by night",
+      "Conversion angle is: (most correct answer)",
+    answer1: "The angular difference between the rhumb line and the great circle between two positions, measured at any of the postions ",
+    answer2: "the difference between the rhumb line and the great circle directions",
+    answer3: "the angle used to convert from true to compass directions",
+    answer4: "the angle at which speech from another person enters the ear",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "A straight line drawn on a chart measures 4.63cm and represents 150NM. The chart scale is:",
+    answer1: "1:6 000 000",
+    answer2: "1:3 000 000",
+    answer3: "1:1 000 000",
+    answer4: "1:5 000 000",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "An aircrafft is on a heading of 354°C. Variation is 2W and Deviation 8E. What is the aircrafts True Heading?",
+    answer1: "0°T",
+    answer2: "004°T",
+    answer3: "010°T",
+    answer4: "030°T",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "What is the aprroximate latitude of the Antarctic Circle?",
+    answer1: "66 1/2°S",
+    answer2: "23°1/2N",
+    answer3: "88 1/2°W",
+    answer4: "66°1/2E",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "The term departure used in navigation also has the following meaning:?",
+    answer1: "distance in direction east/west, given in nautical miles",
+    answer2: "distance North/South",
+    answer3: "angular distance along meridian",
+    answer4: "angular distance along a parallel of latitude",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "What is the distance in kilometres from 49°S 180°E/W to 58°S 180°E/W",
+    answer1: "1 000km ",
+    answer2: "540km",
+    answer3: "500km",
+    answer4: "800km",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "The great circle distance between position A(59°34.1´N 008°08.4´E) and B (30°25.9´N 171°51.6´W) is:",
+    answer1: "10 800NM",
+    answer2: "5 400NM",
+    answer3: "4 500NM",
+    answer4: "5 500NM",
     correctAnswer: 2
+  },
+  {
+    question:
+      "The maximum difference between geocentric and geodetic latitude occurs at about",
+    answer1: "45° North and South",
+    answer2: "90° North and South",
+    answer3: "60° North and South",
+    answer4: "0° North and South (Equator)",
+    correctAnswer: 1
   }
 ];
