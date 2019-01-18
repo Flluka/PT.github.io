@@ -81,7 +81,7 @@ const questions = [
   },
   {
     question: "Radation fog extends from the surface to around:",
-    answer1: "500ft",
+    answer1: "200ft",
     answer2: "800ft",
     answer3: "2000ft",
     answer4: "10000ft",
