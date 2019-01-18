@@ -52,14 +52,6 @@ const questions = [
     correctAnswer: 2
   },
   {
-    question: "Convective clouds are formed",
-    answer1: "In a stable air mass",
-    answer2: "In an unstable air mass",
-    answer3: "In the summer during the day only",
-    answer4: "In mid latitudes only",
-    correctAnswer: 2
-  },
-  {
     question: "The fastest moving thunderstorms are",
     answer1: "Thermal",
     answer2: "Orographic",
