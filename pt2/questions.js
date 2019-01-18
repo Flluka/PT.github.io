@@ -281,15 +281,6 @@ const questions = [
   },
   {
     question:
-      "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform appearence, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged pathes",
-    answer1: "Ns",
-    answer2: "AS",
-    answer3: "CS",
-    answer4: "ST",
-    correctAnswer: 4
-  },
-  {
-    question:
       "Which cloud type (genus) is described by the following definition? Cumulus clouds which are markedly spouting and are often of great vertical extent; their bulging upper part frequently resembles a cauliflower",
     answer1: "Cumulonimbus Capillatus",
     answer2: "Cumulus humilis",
