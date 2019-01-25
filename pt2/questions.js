@@ -240,7 +240,7 @@ const questions = [
     answer3: "88 1/2°W",
     answer4: "66°1/2E",
     correctAnswer: 1
-  },
+                  },
   {
     question:
       "The term departure used in navigation also has the following meaning:?",
@@ -276,5 +276,14 @@ const questions = [
     answer3: "60° North and South",
     answer4: "0° North and South (Equator)",
     correctAnswer: 1
+    },
+  {
+    question:
+      "Consider the following statements on departure",
+    answer1: "as the diffirence of longitude increases, the departure is constant if the latitude is constant",
+    answer2: "As the latiude increases, the departure between two meridians decreases",
+    answer3: "departure may be calculated using the equation: departure = sin Lat x sin Long",
+    answer4: "Departure is independent of difference of longitude",
+    correctAnswer: 2
   }
 ];
