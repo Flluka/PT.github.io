@@ -15,7 +15,7 @@ const questions = [
     answer2: "06°01´N",
     answer3: "02°45´S",
     answer4: "03°50´S",
-    correctAnswer: 1
+    correctAnswer: 4
   },
   {
     question: "What is the initial great circle track from Porto Alegre, Brazil (29°12´S 051°00´W) to durban, South africa (29°12´S 031°00´E)?",
