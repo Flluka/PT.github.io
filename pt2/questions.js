@@ -146,11 +146,11 @@ const questions = [
   },
   {
     question: "Isogonals are lines of equal",
-    answer1: "Areas of high level clear air Turbulence",
-    answer2: "Jet streams",
-    answer3: "Stratospheric inversions",
-    answer4: "Mountain waves",
-    correctAnswer: 4
+    answer1: "Compass deviation",
+    answer2: "Magnetic Variation",
+    answer3: "Pressure",
+    answer4: "Wind Velocity",
+    correctAnswer: 2
   },
   {
     question:"Consider the following statements on departure",
