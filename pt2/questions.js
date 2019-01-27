@@ -285,5 +285,23 @@ const questions = [
     answer3: "departure may be calculated using the equation: departure = sin Lat x sin Long",
     answer4: "Departure is independent of difference of longitude",
     correctAnswer: 2
+      },
+  {
+    question:
+      "The Formula for earth convergency is:",
+    answer1: "Ch long x tan mean latitude",
+    answer2: "1/2 ch long x sine mean latitude",
+    answer3: "ch long x sine mean latitude",
+    answer4: "ch long x cos mean latidude",
+    correctAnswer: 3
+      },
+  {
+    question:
+      "Departure is defined as: ",
+    answer1: "Distance on the Earth in East/West direction measured in difference of longitude",
+    answer2: "Distance between two positions having the same latitudes but different hemispheres",
+    answer3: "Distance between two positions located at the same longitude",
+    answer4: "Distance on the Earth in East/West direction measures in nautical miles",
+    correctAnswer: 4
   }
 ];
