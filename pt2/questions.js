@@ -23,7 +23,7 @@ const questions = [
     answer2: "130°T",
     answer3: "105°T",
     answer4: "115°T",
-    correctAnswer: 3
+    correctAnswer: 1
   },
   {
     question: "A line drawn on a chart which joins all points where the value of magnetic variation is zero is called an:",
