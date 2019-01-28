@@ -303,5 +303,34 @@ const questions = [
     answer3: "Distance between two positions located at the same longitude",
     answer4: "Distance on the Earth in East/West direction measures in nautical miles",
     correctAnswer: 4
+    
+        },
+  {
+    question:
+      "Consider the following statements on the use of magnetic compasses in aircraft:",
+    answer1: "The centre of gravity of the compass card is located below the point of suspension",
+    answer2: "A strong vertical component of the terrestrial magnetic field may make the compass useless",
+    answer3: "All three statements are correct",
+    answer4: "By construction the compass is optimised for reacting on the direction of the horizontal component of the terrestrial magnetic field",
+    correctAnswer: 3
+          },
+  {
+    question:
+      "A direct reading compass should be swung when:",
+    answer1: "There is a large change in magnetic longitude",
+    answer2: "The aircraft is hit by a lightning",
+    answer3: "The aircraft has flown 100 hours since last compass swing",
+    answer4: "The aircraft is transferred to another base involving a large change in variation",
+    correctAnswer: 2
+          },
+  {
+    question:
+      "Which of the following is NOT an occurrence requiring a compass swing:",
+    answer1: "Aircraft hit by lightning",
+    answer2: "Major changes in aircraft equipment",
+    answer3: "When specified in the aircraft maintenance schedule",
+    answer4: "If transferred to another base involving a large change in longitude",
+    correctAnswer: 4
+    
   }
 ];
