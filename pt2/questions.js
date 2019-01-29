@@ -31,7 +31,7 @@ const questions = [
     answer2: "It increases",
     answer3: "it first increases, then decreases",
     answer4: "it remains constant",
-    correctAnswer: 1''
+    correctAnswer: 1
   },
   {
     question:
