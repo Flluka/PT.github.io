@@ -10,12 +10,13 @@ const questions = [
   },
   {
     question:
-      "If small supercooled water droplets hit an aerofoil they will:",
-    answer1: "Partially freeze and run back giving clear ice",
-    answer2: "Partially freeze and run back giving rime ice",
-    answer3: "Freeze in impact giving rime ice",
-    answer4: "Freeze on impact giving clea ice",
-    correctAnswer: 3
+      "Refer to the following TAF extract: BECMG 1821 BR BKN004 PROB30 TEMPO 2124 FG VV001 What does the abbreviation PROB30 mean?:",
+    answer1: "Probability of 30%",
+    answer2: "Conditions will last for at least 30 minutes",
+    answer3: "The cloud ceiling should lift to 3000ft",
+    answer4: "Change expected in less than 30 minutes.",
+    correctAnswer: 1
+    
   },
   {
     question: "Central Europe is situated in the zone of: ",
@@ -124,7 +125,7 @@ const questions = [
     answer2: "35° - 55°",
     answer3: "55° - 75°",
     answer4: "10° - 15°",
-    correctAnswer: 3
+    correctAnswer: 1
   },
   {
     question:
@@ -183,7 +184,7 @@ const questions = [
       "If small supercooled water droplets hit an aerofoil they will:",
     answer1: "Partially freeze and run back giving clear ice",
     answer2: "Partially freeze and run back giving rime ice",
-    answer3: "Freeze in impact giving rime ice",
+    answer3: "Freeze on impact giving rime ice",
     answer4: "Freeze on impact giving clear ice",
     correctAnswer: 4
   },
