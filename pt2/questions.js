@@ -149,7 +149,7 @@ const questions = [
     answer2: "1/300",
     answer3: "1/250",
     answer4: "1/150",
-    correctAnswer: 1
+    correctAnswer: 4
   },
   {
     question:
