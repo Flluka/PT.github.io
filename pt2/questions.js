@@ -184,9 +184,9 @@ const questions = [
       "If small supercooled water droplets hit an aerofoil they will:",
     answer1: "Partially freeze and run back giving clear ice",
     answer2: "Partially freeze and run back giving rime ice",
-    answer3: "Freeze on impact giving rime ice",
+    answer3: "Freeze in impact giving rime ice",
     answer4: "Freeze on impact giving clear ice",
-    correctAnswer: 4
+    correctAnswer: 3
   },
   {
     question:
