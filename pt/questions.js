@@ -175,18 +175,18 @@ const questions = [
 
 
 question: "over an airfield cumulonimbus clouds are covering the sky. The cloud ceiling is 6000 ft. How will the actual METAR look like?",
-Answer1: "CAVOK, if the visibility is above 10 km",
-Answer2: "OVC060",
-Answer3: "BKN600CB", 
-Answer4: "OVC060CB", 
+answer1: "CAVOK, if the visibility is above 10 km",
+answer2: "OVC060",
+answer3: "BKN600CB", 
+answer4: "OVC060CB", 
  correctAnswer: 4 
  },
   {
 question: "Geostationary satellites have a position height over earths surface of:",
-Answer1:"35800m",
-Answer2:"35800 ft",
-Answer3:"35800 km", 
-Answer4:"not a fixed height",
+answer1:"35800m",
+answer2:"35800 ft",
+answer3:"35800 km", 
+answer4:"not a fixed height",
  correctAnswer: 3
  },
   {
