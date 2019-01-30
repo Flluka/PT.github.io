@@ -182,7 +182,7 @@ Answer4: "OVC060CB",
  correctAnswer: 4 
  },
   {
-question "Geostationary satellites have a position height over earths surface of:",
+question: "Geostationary satellites have a position height over earths surface of:",
 Answer1:"35800m",
 Answer2:"35800 ft",
 Answer3:"35800 km", 
@@ -190,7 +190,7 @@ Answer4:"not a fixed height",
  correctAnswer: 3
  },
   {
-question "A satellite relayed TV images are transmitted to the earths station:",
+question: "A satellite relayed TV images are transmitted to the earths station:",
 answer1: "in real time",
 answer2: "With a delay of 30 min.",
 answer3: "only during day time",
@@ -262,7 +262,7 @@ answer4: "pressure  Increase, temperature Increase, Densiity  Increase",
  correctAnswer: 4
  },
   {
-question "which of the following processes within a layer may lead to the building of CU and CB clouds?",
+questio: "which of the following processes within a layer may lead to the building of CU and CB clouds?",
 answer1: "frontal lifting within stable layers",
 answer2: "subsidence",
 answer3: "radiation",
