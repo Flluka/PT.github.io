@@ -407,7 +407,7 @@ answer4: "00000KT 9999 SCT300 21/01 Q1032 NOSIG",
  correctAnswer: 2
  },
   {
-question: "What does the term "METAR" signify?",
+question: "What does the term METAR signify?",
 answer1: "METAR in flight forecast, issued by the meteorological station several times daily",
 answer2: "A METAR is a landing forecast added to the actual weather report as a brief prognostic report",
 answer3: "A METAR is a warning of dangerous meteorological conditions within a FIR",
