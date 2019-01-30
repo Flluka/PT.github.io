@@ -262,7 +262,7 @@ answer4: "pressure  Increase, temperature Increase, Densiity  Increase",
  correctAnswer: 4
  },
   {
-questio: "which of the following processes within a layer may lead to the building of CU and CB clouds?",
+question: "which of the following processes within a layer may lead to the building of CU and CB clouds?",
 answer1: "frontal lifting within stable layers",
 answer2: "subsidence",
 answer3: "radiation",
@@ -286,7 +286,6 @@ answer4: "convection in polar latitudes.",
  question: 3
  },
   {
- 
 question: "How will the dewpoint change during a shower of rain?", 
 answer1: "It will probably inccrease", 
 answer2: "it will probably be higher than the temperature",
