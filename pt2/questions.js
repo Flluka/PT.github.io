@@ -212,6 +212,48 @@ const questions = [
     answer3: "Unstable warm moist air (Tm)",
     answer4: "Stable cold dry air (Pc)",
     correctAnswer: 1
+      },
+  {
+    question: "With regard to airframee icing and super cooled water droplets, what type of ice is associated with the droplets striking the airframe partly freezing on impact, and an amount flowing back before freezing.",
+    answer1: "Rime Ice",
+    answer2: "Clear Ice",
+    answer3: "Hoar Frost",
+    answer4: "Opaque",
+    correctAnswer: 2
     
+     },
+  {
+    question: "If air in transit is heated from below it tends to become more",
+    answer1: "Neutrally stable",
+    answer2: "Unstable",
+    answer3: "none of these",
+    answer4: "stable",
+    correctAnswer: 2
+    
+     },
+  {
+    question: "Which of the following describes a warm occlusion",
+    answer1: "The air mass ahead of the front is drier than the air mass behind the front",
+    answer2: "The warmer air mass is ahead of the original warm front",
+    answer3: "The coldest air mass is ahead of the original warm front",
+    answer4: "The air mass behind the front is more unstable than the air mass ahead of the front",
+    correctAnswer: 3
+    
+      },
+  {
+    question: "When do cold occlusions occur most frequently in Europe?",
+    answer1: "Summer",
+    answer2: "Winter and spring",
+    answer3: "Winter",
+    answer4: "Autumn and winter",
+    correctAnswer: 1
+      },
+  {
+    question: "What is the type, intensity and seasonal variation of precipitation in the equatorial region",
+    answer1: "Warm fronts are common with continuous rain. The frequency is the same throughout the year",
+    answer2: "Rainshowers, hail showers and thunderstorms occur the whole year, but the frequency is highest during two periods: April - May",
+    answer3: "Showers of rain occur throughout the year, the frequency is highest in January",
+    answer4: "Precipitation is generally in the form of showers but continuous rain occurs also. The greatest intensity is in July",
+    correctAnswer: 2
   }
 ];
