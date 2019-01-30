@@ -522,10 +522,8 @@ answer3: "The significant weather forecast for a period of 6 hours after the tim
 answer4: "The significant weather forecast for the time given on the chart",
  correctAnswer: 4
 
-
-
-
-
+ },
+  {
 
 
 
