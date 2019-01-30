@@ -1,8 +1,5 @@
 const questions = [
   {
-
-  },
-  {
    
   question: "what is true avout land breeze", 
   answer1: "only at noon", 
