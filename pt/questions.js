@@ -554,7 +554,7 @@ correctAnswer: 1
 
  },
   {
-question "If air in transit is heated from bellow it tends to become more:",
+question: "If air in transit is heated from bellow it tends to become more:",
 answer1:  "Neutrally stable",
 answer2: "Unstable",
 answer3:  "None of these",
@@ -564,7 +564,7 @@ correctAnswer: 2
 
  },
   {
-question "A non-occuled frontal wave passes the airport. What form of precipitation do you expect?",
+question: "A non-occuled frontal wave passes the airport. What form of precipitation do you expect?",
 answer1: "Showers during some 2 hours until the warm fron arrives. Drizzle in the warm sector within 12 hours. Rain or snow on the passage of the cold front.",
 answer2: "Rain or snow for about 12 hours until the warm front arrives. Within the warm sector rainfall increases. On the arrival of the cold front precipitation ceases.",
 answer3:  "Continous rain or snow during several hours until the warm front arrives. The percipitation stops for several hours or becomes intermittent light within the warm sector. On the arrival of the cold front, showers occur.", 
@@ -572,7 +572,7 @@ answer4: "Continous rain or snow while the frontal wave passes for a periode of 
 correctAnswer: 3
  },
   {
-question "What is the relationship between QFE and QNH at an airport 50ft below MSL?",
+question: "What is the relationship between QFE and QNH at an airport 50ft below MSL?",
 answer1:  "QFE = QNH",
 answer2: "QFE <QNH",
 answer3: "QFE>QNH",
