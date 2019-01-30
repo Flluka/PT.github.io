@@ -336,8 +336,219 @@ answer4: "Left and after 1000 UTC",
   answer3: "A current of fast moving air in the upper troposphere often associated with a surface frontal depression.",
   answer4: "a current of fast moving air in the upper troposphere which always blows from a westerly direction in both hemispheres especially near Equator",
   correctAnswer: 3
+ },
+  {
 
+question: "The cloud and precipitation associated with Tropical maritime air over Europe is:",
+answer1: "SC and Showers",
+answer2: "CU/CB and showers",
+answer3: "ST and Rain",
+answer4: "ST/SC and drizzle/light rain",
+ correctAnswer: 4
 
+ },
+  {
+question: "The mean position of the polar front in the north atlantic is:",
+answer1: "From Florida to the north of UK in July",
+answer2: "Frok North of the UK to Newfoundland in January",
+answer3: "From SW UK to Newfoundland in July",
+answer4: "From Florida to SW UK in January",
+ correctAnswer: 4
+  },
+  {
+question: "Depressions associated with developing frontal waves can be assumed to move in the direction of the 3000ft wind:",
+answer1: "Behind the cold front",
+answer2: "At the apex of the wave",
+answer3: "Ahead of the warm front",
+answer4: "In the warm sector",
+ correctAnswer: 4
+ 
+  },
+  {
+question: "What types of cloud will you see flying at FL50 towards a warm front?",
+answer1: "At some 500km AS, later CS and some 80km before the front CB",
+answer2: "At some 500km from the front, groups of CB, later some 250km thickening AS",
+answer3: "Mainly clear skies. At some 100km from the front, NS begins",
+answer4: "At some 800km CS, later AS, and some 300km NS until the front.",
+ correctAnswer: 4
+
+ },
+  {
+question: "What degree of turbulence, if any, is likely to be encountered while flying through a cold front in the summer over Central Europe at FL100?",
+answer1: "Moderate turbulence in NS cloud",
+answer2: "Severe turbulence in CB cloud",
+answer3: "Light turbulence in CB",
+answer4: "Light turbulence in ST cloud",
+ correctAnswer: 2
+
+ },
+  {
+question: "Which of the following conditions are you most likely to encounter when approaching an active warm front at medium to low level?",
+answer1: "Severe thunderstorm at low altitude",
+answer2: "Low cloud and poor visibility", 
+answer3: "Extreme turbulence and severe lightning striking the ground",
+answer4: "High cloud base, good surface visibility, and isolated TS",
+ correctAnswer: 2
+
+ },
+  {
+question: "In case of fronts, what cloud formation is most likely to occur at low levels when a warm air mass overrides a cold air mass?",
+answer1: "Cumulus",
+answer2: "Nimbostratus", 
+answer3: "Cumulinimbus",
+answer4: "Altostratus",
+ correctAnswer: 2
+
+ },
+  {
+question: "What type of low pressure area is associated with a surface front",
+answer1: "A cold air pool",
+answer2: "Polar front Low",
+answer3: "A low on the lee side of a mountain",
+answer4: "Heat low",
+ correctAnswer: 2
+
+ },
+  {
+
+question: "In which of the following 1850UTC METAR reports, is the probability of fog formation, in the coming night, the highest?",
+answer1: "22004 6000 -RA SCT012 OVC030 17/14 Q1009 NOSIG",
+answer2: "VRB01KT 8000 SCT250 11/10 Q1028 BECMG 3000 BR", 
+answer3: "VRB02KT 2500 HZ SCT120 14/M08 Q1035 NOSIG",
+answer4: "00000KT 9999 SCT300 21/01 Q1032 NOSIG",
+ correctAnswer: 2
+
+ },
+  {
+question: "What does the term "METAR" signify?",
+answer1: "METAR in flight forecast, issued by the meteorological station several times daily",
+answer2: "A METAR is a landing forecast added to the actual weather report as a brief prognostic report",
+answer3: "A METAR is a warning of dangerous meteorological conditions within a FIR",
+answer4: "A METAR signifies actual weather report at an aerodrome and is generally issued with half hour intervals.",
+correctAnswer: 4
+ },
+  {
+question: "How long from the time of observations is a TREND in a METAR?",
+answer1: "30 minutes",
+answer2: "9 hours",
+answer3: "1 hour",
+answer4: "2 hours",
+ correctAnswer: 4
+
+ },
+  {
+
+question: "When will the surface wind in a METAR record a gust factor?",
+answer1: "With gusts of at least 25KT",
+answer2: "With gusts of at least 35kt",
+answer3: "When gusts are at least 15knots above the mean wind speed",
+answer4: "When gusts are at least 10knots above the mean wind speed",
+correctAnswer: 4
+
+ },
+  {
+
+question: "The wind direction in a METAR is measured relative to",
+answer1: "The Greenwich meridian",
+answer2: "Grid north",
+answer3: "Magnetic north",
+answer4: "True North", 
+correctAnswer: 4
+ },
+  {
+question: "REFER TO DIAGRAM 163
+TAF 060600Z 0606/0616 25006KT 8000 BKN240 BECMG 0607/0610 OVC200 BECMG 0610/0613 23010KT 8000 OVC100 BECMG 0613/0616 23014KT 6000 RA SCT030 OVC050=
+At which airport is the following weather development taking place?",
+answer1: "LEMD",
+answer2: "EDDL",
+answer3: "LFPO",
+answer4: "LOWW",
+ correctAnswer: 2
+ },
+  {
+
+question: "Flight from Bordeaux to Amsterdam, ETA 2100UTC. What lowest cloud base is forecasted for arrival at Amsterdam?
+TAF EHAM 281500Z 2816/2901 14010KT 6000FT -RA SCT025 BECMG 2816/281812015G25KT SCT008 BKN013 TEMPO 2818/2823 3000 RA BKN005 OVC101 BECMG 2823/2901 25020KT 8000NSW",
+answer1: "250FT",
+answer2: "500FT",
+answer3: "800FT",
+answer4: "500M",
+ correctAnswer: 3
+ },
+  {
+
+question: "Flight from Lisbon to Bordeaux, ETA 1800UTC. What type of precipitation is forecasted on the approach to Bordeaux?
+TAF LFBD 281300z 2815/2824 26015KT 9999 SHRA BKN 020 TEMPO 2816/2820 26020G30KT 8000 +SHRA BKN015CB PROB30 TSRA",
+answer1: "Continuous moderate rain",
+answer2: "Heavy rainshowers",
+answer3: "Moderate snow showers",
+answer4: "Light drizzle and fog",
+ correctAnswer: 2
+
+ },
+  {
+question: "REFER TO DIAGRAM 166
+To which aerodrome is the following TAF most applicable?
+TAF 2310/2319 24014KT 6000 SCT030 BKN100 TEMPO 2311/2313 25020G38KT 2500 +TSRA SCT008 BKN025CB BECMG 2313/2315 9999 28012KT SCT030",
+answer1: "LEMD",
+answer2: "LOWW",
+answer3: "EKCH",
+answer4: "LFPG", 
+ correctAnswer: 4
+
+ },
+  {
+
+question: "Refer to following TAF extract
+BECMG 1821 2000 BR BKN004 2124 0500 FG VV001
+What visibility is forecast for 2400UTC",
+answer1: "500M", 
+answer2: "2000M",
+answer3: "Between 500m and 2000m",
+answer4: "0m and 1000m", 
+ correctAnswer: 1
+ },
+  {
+
+question: "Refer to the following TAF extract
+BECMG 1821 2000 BR BKN004 BECMG 2124 0500 FG VV001
+What does the BECMG data indicate for 18 and 21 hour time frame?",
+answer1: "The new conditions are achieved between 1800 and 2100 UTC",
+answer2: "many long term changes in the original weather",
+answer3: "Many short term changes in the original weather",
+answer4: "a quick change to the new conditions between 1800 and 1900 utc", 
+ correctAnswer: 1
+
+ },
+  {
+question: "Refer to the following extract:
+BECMG 1821 2000 BR BKN004 BECMG 2124 0500 FG VV001
+What does the abbreviation BKN004 mean?",
+answer1: "5-7 octas, ceiling 400ft",
+answer2: "1-2 octas, ceiling 400ft",
+answer3: "1-4 octas, ceiling 400m",
+answer4: "4-8 octas, ceiling 400m",
+ correctAnswer: 1
+
+ },
+  {
+
+question: "The TAF weather messages are", 
+answer1: "Airport forecast", 
+answer2: "Landing forecast", 
+answer3: "Hourly or semi hourly weather observation",
+answer4: "Special weather observations",
+correctAnswer: 1
+
+ },
+  {
+
+question: "What information is given on Significant weather chart?",
+answer1: "The significant weather that is observed at the time given on the chart",
+answer2: "The significant weather in a period 3hours before and 3hours after the time given on the chart",
+answer3: "The significant weather forecast for a period of 6 hours after the time given on chart.",
+answer4: "The significant weather forecast for the time given on the chart",
+ correctAnswer: 4
 
 
 
