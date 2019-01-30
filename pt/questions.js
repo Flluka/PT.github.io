@@ -524,6 +524,180 @@ answer4: "The significant weather forecast for the time given on the chart",
  },
   {
 
+question: "Which of the following pressure systems is most likely to be associated with strong winds?",
+answer1: "ridge of a high pressure",
+answer2: "A Col",
+answer3: "An Anticyclone",
+answer41: "A depression",
+correctAnswer: 4
+
+
+ },
+  { 
+  
+question: "Does the following report make sense?  METAR LSZH 182320Z VRB02KT 5000 MIFG 02/02 Q1015 NOSIG",
+answer1: "The report is not possible, because, with a temperature of 2 degrees and dew point of 2 degrees there must be uniform fog",
+answer2: "The report would never be seen, because shallow fog is not reported when the visibility is more than 2km",
+answer3: "The report is nonsense, because it is impossible to observe a visibility of 5km if shallow fog is reported.",
+answer4:  "The report is possible becaus, shallow fog is defined as a thin layer of fog below eye level",
+correctAnswer: 4
+
+ },
+  {
+
+question: "The mean position of the polar fron over the North Atlantic /uk is",
+answer1:  "Newfoundland to NW Scotland in summer",
+answer2:  "further north in winter than summer",
+answer3: "Florida to NW Scotland in summer",
+answer4: "Florida to NW Scotland in winter",
+correctAnswer: 1
+
+ },
+  {
+question "If air in transit is heated from bellow it tends to become more:",
+answer1:  "Neutrally stable",
+answer2: "Unstable",
+answer3:  "None of these",
+answer4:  "Stable",
+correctAnswer: 2
+
+
+ },
+  {
+question "A non-occuled frontal wave passes the airport. What form of precipitation do you expect?",
+answer1: "Showers during some 2 hours until the warm fron arrives. Drizzle in the warm sector within 12 hours. Rain or snow on the passage of the cold front.",
+answer2: "Rain or snow for about 12 hours until the warm front arrives. Within the warm sector rainfall increases. On the arrival of the cold front precipitation ceases.",
+answer3:  "Continous rain or snow during several hours until the warm front arrives. The percipitation stops for several hours or becomes intermittent light within the warm sector. On the arrival of the cold front, showers occur.", 
+answer4: "Continous rain or snow while the frontal wave passes for a periode of some 24 hours",
+correctAnswer: 3
+ },
+  {
+question "What is the relationship between QFE and QNH at an airport 50ft below MSL?",
+answer1:  "QFE = QNH",
+answer2: "QFE <QNH",
+answer3: "QFE>QNH",
+answer4: "There is no clear relationship",
+correctAnswer: 3
+ },
+  {
+question: "What type of fronts are most likely to be present during winter in Central Europe when temperatures close to the ground are bellow 0 degrees and freezing rain starts to fall?", 
+answer1: "Cold fronts.",
+answer2: "Cold occlusions",
+answer3: "Warm fronts, warm occlusions",
+answer4: "High level cold fronts",
+correctAnswer: 3
+ },
+  {
+question: "After passing at right angels through a very active cold front in the direction towards the cold air, what will you encounter at FL50, in the northern hemisphere immediately after a marked changein temperature?", 
+answer1: "A veering in the wind direction",
+answer2: "An increase in tailwind",
+answer3: "A backing in the wind direction",
+answer4: "A decrease in tailwind",
+correctAnswer: 1
+ },
+  {
+question: "During the passage of a warm front the wind",
+answer1: "Veers throughout the passage",
+answer2: "backs then veers on passage",
+answer3: "backs throughout the passage",
+answer4: "Veers then backs on passage",
+correctAnswer: 1
+ },
+  {
+question: "In which approximate direction does the center of a frontal depression moves?",
+answer1: "In the direction of the warm sector isobars",
+answer2: "In the direction of the isobars a head of the warm front",
+answer3: "In the direction of the sharpest pressure increase",
+answer4: "In the direction of the isobars behind the cold front",
+correctAnswer: 1
+ },
+  {
+question: "On the passage of a cold front, the surface wind..., the pressure..., and the temperature.....", 
+answer1: "backs/ rises/ falls",
+answer2: "backs/falls/rises",
+answer3: "veers/rises/ falls", 
+answer4: "veers/falls/ rises",
+correctAnswer: 3
+ },
+  {
+question "What is the type, intensity and seasonal variation of precipitation in the equatorial region?",
+answer1: "Warm fronts are common with continuous rain. The frequency is the same throughout the year",
+answer2: "Rainshowers, hail showers and thunderstorms occur the whole year, but the frequency is highest during two periods: April - May and October- November",
+answer3: "Showers of rain or hail occur throughout the year, but the frequency is highest in January",
+answer4: "Precipitation is generally in the form of showers but continuous rain occurs also. The greatest intensity is in July.",
+correctAnswer: 2
+ },
+  {
+question: "Which is true of a secondary depression in the northern hemisphere?",
+answer1: "It tends to move around the primary in an anticyclone sense",
+answer2: "It rapidly closes on, and merges with the primary",
+answer3: "It tends to move around the primary in an cyclone sense",
+answer4: "it tends to maintain its position relative to the primary.",
+correctAnswer: 3
+ },
+  {
+question: "In the TAF for Athens, during the summer, for the time of your landing you note: TEMPO TS. What is maximum time this deterioration in weather can last in anyone instance?",
+answer1: "120 minutes",
+answer2: "60 minutes",
+answer3: "10 minutes",
+answer4: "20 minutes",
+CorrectAnswer: 2
+ },
+  {
+question: "In relation to the total weight of the atmosphere, the weight of the atmosphere between mean sea level and a height of 5500m is",
+answer1: "99%",
+answer2: "50%",
+answer3: "1%",
+answer4: "25%",
+correctAnswer: 2
+ },
+  {
+question: "During summer, a weak pressure gradient covers a coastal airfield in Eastern England resulting in mainly clear skies. The surface wind at dawn was calm. If the alignment of the coastline in the vicinity of the airfield is predominantly North/South, the surface wind is likely to become.",
+answer1: "easterly to south-easterly and increase in velocity by afternoon",
+answer2: "westerly and then southerly by evening",
+answer3: "easterly and then westerly by afternoon",
+answer4: "westerly and increase in velocity by afternoon",
+correctAnswer: 1
+ },
+  {
+question "You are flying at at 2500ft /AGL, the wind is 180 degrees, and intend to land at an airport, at sea level directly below. From approximately which direction would you expect the surface wind (mid-latitude, northern hemisphere)?",
+answer1: "South-southwest",
+answer2: "South.",
+answer3: "Southwest",
+answer4: "South- southeast.", 
+correctAnswer: 4
+ },
+  {
+question: "Which of the following types of jet streams can be observed all year round?",
+answer1: "Equatorial jet stream /arctic jet stream",
+answer2: "Arctic jet stream/ subtropical jet stream",
+answer3: "Equatorial jet stream/ Polar front jet stream",
+answer4: "Subtropical jet stream / Polar front jet stream",
+correctAnswer: 4
+ },
+  {
+question "The weather normally associated with polar maritime air near the UK is:",
+answer1: "Overcast moderate intermittent rain",
+answer2: "overcast,moderate drizzle",
+answer3: "broken cloud, moderate continuous rain",
+answer4: "broken cloud, moderate or heavy rain showers",
+correctAnswer: 4
+ },
+  {
+question: "What cloud type can produce freezing rain?",
+answer1: "Stratocumulus",
+answer2: "Stratus",
+answer3: "Cumulonimbus",
+answer4: "Nimbostratus",
+correctAnswer: 4
+ },
+  {
+question "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform apperance, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged patches.",
+answer1: "Nimbostratus",
+answer2: "Altostratus",
+answer3: "Cirrostratus",
+answer4: "Stratus",
+correctAnswer: 4
 
 
 
