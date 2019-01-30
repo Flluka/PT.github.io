@@ -602,7 +602,7 @@ What does the abbreviation BKN004 mean?",
   correctAnswer: 1
  },
   {
-  question: "On the passage of a cold front, the surface wind..., the pressure..., and the temperature.....", 
+  question: "On the passage of a cold front the surface wind... the pressure... and the temperature.....", 
   answer1: "backs/ rises/ falls",
   answer2: "backs/falls/rises",
   answer3: "veers/rises/ falls", 
