@@ -954,7 +954,8 @@ correctAnswer: 2
     answer3: "Cumulinimbus",
     answer4: "Altostratus",
     correctAnswer: 2
-  
+    },
+  {
   question:
       "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform appearance, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged patches.",
     answer1: "Nimbostratus",
