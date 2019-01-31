@@ -839,7 +839,7 @@ correctAnswer: 2
     answer2: "when there is no or little vertical movement. (convection)",
     answer3: "when the air behaves as predicted by the meteorologists",
     answer4: "when no rain is present.",
-    correctAnswer: 3
+    correctAnswer: 2
   },
   {
     question: "thunderstorms require a trigger action to release the conditional instability. Which of the        following would be the LEAST sutible as a trigger:",
