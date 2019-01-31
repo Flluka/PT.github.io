@@ -633,8 +633,7 @@ correctAnswer: 2
     correctAnswer: 2
   },
   {
-    question:
-      "The altimeter subscale is set to 1030 hPa and the altimeter reads 3500'. QNH is 994 hPa. what is the altitude of the aircraft?",
+    question: "The altimeter subscale is set to 1030 hPa and the altimeter reads 3500'. QNH is 994 hPa. what is the altitude of the aircraft?",
     answer1: "2990",
     answer2: "4472",
     answer3: "3500",
@@ -642,8 +641,7 @@ correctAnswer: 2
     correctAnswer: 4
   },
   {
-    question:
-      "Take off from an airport with QNH 1020 hPa. When passing through the transition altitude you are resetting your altimeter to the standard. What happens with the altimeter reading?",
+    question: "Take off from an airport with QNH 1020 hPa. When passing through the transition altitude you are resetting your altimeter to the standard. What happens with the altimeter reading?",
     answer1: "Increase",
     answer2: "apparently nothing",
     answer3: "decrease",
@@ -667,8 +665,7 @@ correctAnswer: 2
     correctAnswer: 1
   },
   {
-    question:
-      "Througout the 24 hrs of a day the relativ humidity can be expected to",
+    question: "Througout the 24 hrs of a day the relativ humidity can be expected to",
     answer1: "increase during the day and decrease at night",
     answer2: "stay reasonably constant througout the 24hrs",
     answer3: "Reduce during the day and increase at night",
@@ -676,8 +673,7 @@ correctAnswer: 2
     correctAnswer: 3
   },
   {
-    question:
-      "From summer to winter, the movement of the jetstreams over the north atlantic and their speed change, will be",
+    question: "From summer to winter, the movement of the jetstreams over the north atlantic and their speed change, will be",
     answer1: "N and increase",
     answer2: "N and decrease",
     answer3: "S and increase",
@@ -701,8 +697,7 @@ correctAnswer: 2
     correctAnswer: 1
   },
   {
-    question:
-      "Where is the coldest part of cold occlusion?",
+    question:"Where is the coldest part of cold occlusion?",
     answer1: "just at the point of the occlusion",
     answer2: "before the front",
     answer3: "behind the front",
@@ -710,8 +705,7 @@ correctAnswer: 2
     correctAnswer: 3
   },
   {
-    question:
-      "Where does the tropical maritime air originate?",
+    question:"Where does the tropical maritime air originate?",
     answer1: "North Africa",
     answer2: "The inlands of Siberia",
     answer3: "Azorean Islands in the Atlantic Ocean",
@@ -767,8 +761,7 @@ correctAnswer: 2
     correctAnswer: 1
   },
   {
-    question:
-      "Satellite images are used to:",
+    question: "Satellite images are used to:",
     answer1: "locate cloud systems and fronts in different areas.",
     answer2: "to achieve 14 days forecasts.",
     answer3: "locate areas of moderate icing",
@@ -776,8 +769,7 @@ correctAnswer: 2
     correctAnswer: 1
   },
   {
-    question:
-      "An inversion is one in which:",
+    question: "An inversion is one in which:",
     answer1: "there is no horizontal gradient of temperature",
     answer2: "there is no change of temperature with height",
     answer3: "there is an increase of temperature as height increases",
