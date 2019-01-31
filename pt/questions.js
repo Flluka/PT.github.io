@@ -955,6 +955,155 @@ correctAnswer: 2
     answer4: "Altostratus",
     correctAnswer: 2
   
+  question:
+      "What type of cloud is being described? A generally grey cloud layer with fairly uniform base and uniform appearance, which may give drizzle or snow grains. When the sun is visible through the cloud, the outline is clearly discernible. Sometimes it appears in the form of ragged patches.",
+    answer1: "Nimbostratus",
+    answer2: "Altostratus",
+    answer3: "Cirrostratus",
+    answer4: "Stratus",
+    correctAnswer: 4
+  },
+  {
+    question:
+      "Which form of precipitation from clouds containing only water is most likely to fall in mid-latitudes?",
+    answer1: "Hail",
+    answer2: "Drizzle",
+    answer3: "Moderate rain with large drops",
+    answer4: "Heavy rain with large drops",
+    correctAnswer: 2
+  },
+  {
+    question: "What cloud cover is typical for a wide warm sector of a polar front depression over Central Europe in the summer during daytime?",
+    answer1: "Fair weather CU",
+    answer2: "Sky clear",
+    answer3: "ST with drizzle",
+    answer4: "BKN AS and CS",
+    correctAnswer: 1
+  },
+  {
+    question: "Ahead of a warm front (northern hemisphere) the wind direction changes from the surface up to the tropopause. The effect of this change is that the wind:",
+    answer1: "Veers in the friction layer and veers above the friction layer. ",
+    answer2: "Veers in the friction layer and backs above the friction layer.",
+    answer3: "Backs in the friction layer and backs above the friction layer",
+    answer4: "Backs in the friction layer and veers above the friction layer. ",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "The eye of a hurricane:",
+    answer1: "Can not be spotted by satellites.",
+    answer2: "Is filled with air which is colder than the air in the surrounding regions.",
+    answer3: "Has a diameter of at least 100 nautical miles.",
+    answer4: "Extends from the surface to the top of the hurricane",
+    correctAnswer: 4
+  },
+  {
+    question:
+      "Which one of the following statements is correct concerning the movement of the ITCZ in the region of West Africa?",
+    answer1: "It oscillates during the year between the equator and 10 degrees North.",
+    answer2: "It reaches its maximum southerl position of 5*S in January",
+    answer3: "It reaches its maximum northerly position of 15* - 20*N in July.",
+    answer4: "It oscillates during the year between 10 degrees North and 10 degrees South.",
+    correctAnswer: 3
+  },
+  {
+    question: "What weather is prevalent in easterly waves?:",
+    answer1: "What weather is prevalent in easterly waves?",
+    answer2: "Clear skies",
+    answer3: "Continuos rain",
+    answer4: "Thunderstorms and rain.",
+    correctAnswer: 4
+  },
+  {
+    question: "In a westerly situation, the mean time interval between polar front waves in Western Europe is",
+    answer1: "Twelve to Eighteen hours.",
+    answer2: "One to Two days.",
+    answer3: "Six to Twelve hours",
+    answer4: "Three to Four days.",
+    correctAnswer: 2
+  },
+  {
+    question: "What are squall lines??",
+    answer1: "The paths of tropical revolving storms.",
+    answer2: " Unusual intensive cold fronts",
+    answer3: "The surface weather associated with upper air troughs.",
+    answer4: "Bands of intensive thunderstorms.",
+    correctAnswer: 4
+  },
+  {
+    question:
+      "Which of the following situations favours the formation of heavy thunderstorms??",
+    answer1: "A cold front on the leeward side of a mountain range.",
+    answer2: "A warm sector moving over a snow-covered ground.",
+    answer3: "The passage of a warm front in the morning",
+    answer4: "A cold front approaching a mountain range in the evening.",
+    correctAnswer: 4
+  },
+  {
+    question: "TAF LSZH 250600Z 250716 00000KT 0100 FG VV001 BECMG 0810 VV002 BECMG 1012 230005KT 2500 BR BKN005 TEMPO 1316 6000 SCT007= Which of these statements describes the weather that can be expected at 1200 UTC?",
+    answer1: "Visibility 800 metres, fog, wind from 230 degrees, cloud base 500ft.",
+    answer2: "Visibility 2,5km, mist, cloud base 500ft, wind speed 5kt.",
+    answer3: "Visibility 6km, cloud base 500ft, wind speed 5kt",
+    answer4: "Visibility 800 metres, fog, vertical visibility 200ft, calm.",
+    correctAnswer: 2
+  },
+  {
+    question: "What is the best approximation for the wind speed at flight level 250?:",
+    answer1: "interpolation of the wind information available from the 500 and 300 hpa charts. while also concidering the maximum wind information found on the SIgnificant Weather Chart. ",
+    answer2: "By reading wind direction and speed from the 500 hPa chart.",
+    answer3: "By reading wind direction and speed from the 300 hPa chart.",
+    answer4: "By simple interpolation of wind information available from the 500 and 300 hPa chart.",
+    correctAnswer: 1
+  },
+  {
+
+    question: "Which of the following statements is correct concerning the weather in a warm sector??",
+    answer1: "Isolated thunderstorms are sometimes possible over continental areas during the summer.",
+    answer2: "No thunderstorms can occur.",
+    answer3: "Isolated air mass thunderstorms are common during all seasons over continental areas.",
+    answer4: "In mid and high latitudes thunderstorms may occur only over open sea during the summer.",
+    correctAnswer: 1
+  },
+  {
+
+    question: "A moist, stable layer of air is forced to rise against a mountain range and the stability does not change. Which of the following phenomena may develop?",
+    answer1: "Showers and thunderstorms.",
+    answer2: "Inversions",
+    answer3: "Areas of severe turbulence.",
+    answer4: "Stratified clouds",
+    correctAnswer: 4
+  },
+  {
+    question: "On an upper wind and temperature chart:",
+    answer1: "The wind increases from south to north.",
+    answer2: "The pressure is constant all over the chart",
+    answer3: "The temperature is constant all over the chart.",
+    answer4: "The height is constant all over the chart.",
+    correctAnswer: 2
+  },
+  {
+    question: "An air mass which originates over the north athlantic between 50* and 70* degrees north and is moving in over scandinavia is called?",
+    answer1: "Continental arctic air.",
+    answer2: "Maritime arctic air.",
+    answer3: "Continental poler air",
+    answer4: "Maritime poler air",
+    correctAnswer: 4
+  },
+  {
+    question: "When do cold occlusions occur most frequently in Europe?",
+    answer1: "Summer.",
+    answer2: "Winter and Spring..",
+    answer3: "Winter",
+    answer4: "Autumn and Winter.",
+    correctAnswer: 1
+  },
+  {
+    question:"What is the main energy source of a tropical revolving storm?",
+    answer1: "The equatorial jetstream.",
+    answer2: "Cold air advancing from temperate latitudes.",
+    answer3: "Latent heat released from condencing water vapour. ",
+    answer4: "Temperature difference between equatorial low pressure trough and subtropical high pressure belt..",
+    correctAnswer: 3
    
   }
 ];
