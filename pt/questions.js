@@ -741,7 +741,6 @@ correctAnswer: 2
     correctAnswer: 1
   },
   {
-
     question: "over an airfield cumulonimbus clouds are covering the sky. The cloud ceiling is 6000 ft. How will the actual METAR look like?",
     answer1: "CAVOK, if the visibility is above 10 km",
     answer2: "OVC060",
@@ -782,8 +781,6 @@ correctAnswer: 2
     answer3: "there is an increase of temperature as height increases",
     answer4: "there is a decrease of tempersture as height increases.",
     correctAnswer: 3
- 
-
   },
   {
     question: "The area in which the most severe turbelence could be experienced in the relation to standing waves is:",
@@ -851,8 +848,6 @@ correctAnswer: 2
     correctAnswer: 3
   },
   {
-
-
     question: "thunderstorms require a trigger action to release the conditional instability. Which of the        following would be the LEAST sutible as a trigger:",
     answer1: "convergensce in temperate latitudes",
     answer2: "Convergence in tropical latitudes.",
