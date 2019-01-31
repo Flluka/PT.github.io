@@ -631,6 +631,8 @@ correctAnswer: 2
     answer3: "The pressure altitude of the cloudbase",
     answer4: "The height above the highest peak, hill or mountain in the area",
     correctAnswer: 2
+      },
+  {
     question:
       "The altimeter subscale is set to 1030 hPa and the altimeter reads 3500'. QNH is 994 hPa. what is the altitude of the aircraft?",
     answer1: "2990",
