@@ -671,7 +671,7 @@ answer4: "85kt",
 correctAnswer: 4
  },
   {
-question: "ITCZ weather is:"
+question: "ITCZ weather is:",
 answer1: "Occasional showers with continuous rain.",
 answer2: "Usually clear Wx, especially during the winter.",
 answer3: "Often thundery through strong convergence.",
