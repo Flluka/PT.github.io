@@ -1,4 +1,4 @@
-const questions = [
+  const questions = [
   {
    
   question: "what is true avout land breeze", 
@@ -261,14 +261,6 @@ const questions = [
   answer3: "It tends to move around the primary in an cyclone sense",
   answer4: "it tends to maintain its position relative to the primary.",
   correctAnswer: 3
- },
-  {
-  question: "In the TAF for Athens, during the summer, for the time of your landing you note: TEMPO TS. What is maximum time this deterioration in weather can last in anyone instance?",
-  answer1: "120 minutes",
-  answer2: "60 minutes",
-  answer3: "10 minutes",
-  answer4: "20 minutes",
-  CorrectAnswer: 2
  },
   {
   question: "In relation to the total weight of the atmosphere, the weight of the atmosphere between mean sea level and a height of 5500m is",
