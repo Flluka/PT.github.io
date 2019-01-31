@@ -718,7 +718,7 @@ correctAnswer: 2
   },
   {
     question: "What type of front/occlusion usually moves the fastest",
-    answer1: "warm occlusion"",
+    answer1: "warm occlusion",
     answer2: "cold front",
     answer3: "warm front",
     answer4: "cold occlusion",
@@ -761,7 +761,7 @@ correctAnswer: 2
     question: "A satellite relayed TV images are transmitted to the earths station:",
     answer1: "in real time",
     answer2: "With a delay of 30 min.",
-    answer3: "only during day time"",
+    answer3: "only during day time",
     answer4: "only during night time",
     correctAnswer: 1
   },
