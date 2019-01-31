@@ -931,7 +931,7 @@ correctAnswer: 2
     correctAnswer: 4
 },
   {
-    question: "What degree of turbulence, if any, is likely to be encountered while flying through a cold front inthe summer over Central Europe at FL100?",
+    question: "What degree of turbulence, if any, is likely to be encountered while flying through a cold front in the summer over Central Europe at FL100?",
     answer1: "Moderate turbulence in NS cloud",
     answer2: "Severe turbulence in CB cloud",
     answer3: "Light turbulence in CB",
@@ -940,7 +940,7 @@ correctAnswer: 2
 },
   {
 
-    question: "Which of the following conditions are you most likely to encounter when approaching an active warm   front at medium to low level?",
+    question: "Which of the following conditions are you most likely to encounter when approaching an active warm front at medium to low level?",
     answer1: "Severe thunderstorm at low altitude",
     answer2: "Low cloud and poor visibility",
     answer3: "Extreme turbulence and severe lightning striking the ground",
@@ -1103,7 +1103,7 @@ correctAnswer: 2
     answer1: "The equatorial jetstream.",
     answer2: "Cold air advancing from temperate latitudes.",
     answer3: "Latent heat released from condencing water vapour. ",
-    answer4: "Temperature difference between equatorial low pressure trough and subtropical high pressure belt..",
+    answer4: "Temperature difference between equatorial low pressure trough and subtropical high pressure belt",
     correctAnswer: 3
    
   }
