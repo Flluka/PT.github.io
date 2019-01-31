@@ -438,48 +438,7 @@ const questions = [
   correctAnswer: 4
  },
   {
-  question: 
-  "REFER TO DIAGRAM 163
-  TAF 060600Z 0606/0616 25006KT 8000 BKN240 BECMG 0607/0610 OVC200 BECMG 0610/0613 23010KT 8000 OVC100 BECMG 0613/0616 23014KT 6000 RA SCT030 OVC050=
-At which airport is the following weather development taking place?",
-  answer1: "LEMD",
-  answer2: "EDDL",
-  answer3: "LFPO",
-  answer4: "LOWW",
-  correctAnswer: 2
- },
-  {
-  question: 
-  "Flight from Bordeaux to Amsterdam, ETA 2100UTC. What lowest cloud base is forecasted for arrival at Amsterdam?
-TAF EHAM 281500Z 2816/2901 14010KT 6000FT -RA SCT025 BECMG 2816/281812015G25KT SCT008 BKN013 TEMPO 2818/2823 3000 RA BKN005 OVC101 BECMG 2823/2901 25020KT 8000NSW",
-  answer1: "250FT",
-  answer2: "500FT",
-  answer3: "800FT",
-  answer4: "500M",
-  correctAnswer: 3
- },
-  {
-  question: 
-  "Flight from Lisbon to Bordeaux, ETA 1800UTC. What type of precipitation is forecasted on the approach to Bordeaux?
-TAF LFBD 281300z 2815/2824 26015KT 9999 SHRA BKN 020 TEMPO 2816/2820 26020G30KT 8000 +SHRA BKN015CB PROB30 TSRA",
-  answer1: "Continuous moderate rain",
-  answer2: "Heavy rainshowers",
-  answer3: "Moderate snow showers",
-  answer4: "Light drizzle and fog",
-  correctAnswer: 2
- },
-  {
-  question: 
-"REFER TO DIAGRAM 166
-To which aerodrome is the following TAF most applicable?
-TAF 2310/2319 24014KT 6000 SCT030 BKN100 TEMPO 2311/2313 25020G38KT 2500 +TSRA SCT008 BKN025CB BECMG 2313/2315 9999 28012KT SCT030",
-  answer1: "LEMD",
-  answer2: "LOWW",
-  answer3: "EKCH",
-  answer4: "LFPG", 
-  correctAnswer: 4
- },
-  {
+
   question: "Refer to following TAF extract BECMG 1821 2000 BR BKN004 2124 0500 FG VV001 What visibility is forecast for 2400UTC",
   answer1: "500M", 
   answer2: "2000M",
