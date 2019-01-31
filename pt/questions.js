@@ -645,35 +645,167 @@ const questions = [
   answer3: "Cirrostratus",
   answer4: "Stratus",
   correctAnswer: 4
+   },
+  {
+  question: "The worst turbulence in connection to a jetstream (N.H) would be expected when flying:",
+answer1: "in the middle of the core.",
+answer2: "in the warm sector.",
+answer3: "in the jetstream to the left of the core.",
+answer4: "in the jetstream to the right of the core.",
+correctAnswer: 3
+ },
+  {
+question: "What is the average height of the polar frontal jetstream core?",
+answer1: "FL390",
+answer2: "FL300-500",
+answer3: "FL200",
+answer4: "FL250",
+correctAnswer: 2
+ },
+  {
+question: "(For this question use annex 1415) What is the speed of the jetstream NORTH of Oslo?", 
+answer1: "105kt",
+answer2: "50kt",
+answer3:"45kt",
+answer4: "85kt",
+correctAnswer: 4
+ },
+  {
+question: "ITCZ weather is:"
+answer1: "Occasional showers with continuous rain.",
+answer2: "Usually clear Wx, especially during the winter.",
+answer3: "Often thundery through strong convergence.",
+answer4: "Light winds from the South-West.", 
+correctAnswer: 3
+ },
+  {
+question: "Fog and cloud formation takes place by:",
+answer1: "Condensation",
+answer2: "Evaporation",
+answer3: "Sublimation",
+answer4: "Inversion",
+correctAnswer: 1
+ },
+  {
+question: "Between the subtropical highs and ITCZ the wind at low levels is called:",
+answer1: "anti trade winds.",  
+answer2: "monsoon winds.",
+answer3: "trade winds.",
+answer4: "anti monsoon winds.",
+correctAnswer: 3
+ },
+  {
+question: "Which wind systems converge on the ITCZ when it lies at the equator?",
+answer1: "SW monsoon and NW monsoon.",
+answer2: "SE trade winds and NE trade winds.",
+answer3: "SW monsoon and NW trade winds.",
+answer4: "NW monsoon and SW trade winds.", 
+correctAnswer: 2
+ },
+  {
+question: "Fog which releases only 2m above ground or 10m above the sea is called:",
+answer1: "Mist",
+answer2: "Drifting fog",
+answer3: "Smog",
+answer4: "Shallow fog", 
+correctAnswer: 4
+ },
+  {
+question: "Advection fog:",
+answer1: "Can sometimes last for 24 hours or more in winter.", 
+answer2: "Is most likely with Polar Maritime air.",
+answer3: "Will only clear by insolation.",
+answer4: "Only occurs at night and early morning.",
+correctAnswer: 1
+ },
+  {
+question: "What causes advection fog?", 
+answer1: "Warm air moving over a warm surface.",
+answer2: "Warm moist air moving over snow.",
+answer3: "Warm moist air moving over land during summertime.",
+answer4: "Cold air moving over a warmer surface.",
+correctAnswer: 2
+ },
+  {
+question: "Under which of these conditions is radiation fog most likely to form?", 
+answer1: "Strong surface winds.",
+answer2: "Very low temperatures.",
+answer3: "Little or no cloud, almost calm, high relative humidity.", 
+answer4: "Very dry air.",
+correctAnswer: 3
+ },
+  {
+question: "What is the relationship between RVR and Meteorological visibility in homogenous fog?",
+answer1: "RVR=MET-visibility.".
+answer2: "RVR > MET-visibility.",
+answer3: "RVR < MET-visibility.",
+answer4: "Can’t be stated with the conditions given.",
+correctAnswer: 2
+ },
+  {
+question: "In the Northern hemisphere, the wind moves relative to a high pressure area in what direction?",
+answer1: "Directly outwards from the high pressure area.",
+answer2: "Counter-clockwise around the high pressure area.",
+answer3: "Directly towards the high pressure area.",
+answer4: "Clockwise around the high pressure area.",
+correctAnswer: 4
+ },
+  {
+question: "The wind is one important factor when planning a flight. You are planning a flight at FL180. Which upper winds chart should be considered?",
+answer1: "600hPa",
+answer2: "700hPa",
+answer3: "500phPa",
+answer4: "FL180 is not a standard pressure level. Therefore, 600, 700 or 500 hPa charts should be used at pilots discretion.", 
+correctAnswer: 3
+ },
+  {
+question: "How does the wind change when moving down into the friction layer?",
+answer1: "The speed decreases to ca. 50% over land and backs by ca. 30˚ in the N.H.",
+answer2: "The speed decreases to ca. 90% over sea and backs by ca. 10˚ in the N.H.",
+answer3: "The speed decreases to ca. 70% over sea and veers by ca. 30˚ in the S.H.",
+answer4: "The speed decreases to ca. 50% over land and backs by ca. 30˚ in the S.H.",
+correctAnswer: 1
+ },
+  {
+question: "Extensive cloud and precipitation is often associated with a non frontal thermal depression because of:",
+answer1: "surface convergence and upper level divergence causing widespread descent of air in the depression.",
+answer2: "surface divergence and upper level convergence causing widespread ascent of air in the depression.",
+answer3: "surface convergence and upper level divergence causing widespread ascent of air in the depression.",
+answer4: "surface divergence and upper level convergence causing widespread descent of air in the depression.",
+correctAnswer: 3
+ },
+  {
+question: "In the lower layers of the atmosphere due to friction the wind changes direction towards the low pressure area because:",
+answer1: "the pressure gradient increases.",
+answer2: "turbulence is formed and pressure increases.", 
+answer3: "wind speed decreases and therefore coriolois force decreases.",
+answer4: "turbulence is formed and pressure decreases.", 
+correctAnswer: 3
+ },
+  {
+question: "During a flight over the sea at FL100 from Marseille (QNH 1016hPa) to Palma de Mallorca (QNH 1016hPa), the true altitude is constantly decreasing. What is the probable reason for this?",
+answer1: "The altimeter is faulty.",
+answer2: "The air at Marseille is warmer than at Palma de Mallorca.",
+answer3: "One of the QNH values must be wrong.",
+answer4: "The air at Palma de Mallorca is warmer than at Marseille.",
+correctAnswer: 2
+ },
+  {
+question: "Air masses originating in NE Canada and the North Atlantic in winter most commonly reach NW Europe as:",
+answer1: "unstable cold moist air (Pm).", 
+answer2: "stable warm moist air (Tm).",
+answer3: "unstable warm moist air (Tm).",
+answer4: "stable cold dry air (Pc).",
+correctAnswer: 1
+ },
+  {
+question: "Compared to the tropopause over the North Pole, the tropopause over the equator is:",
+answer1: "Colder & lower.",
+answer2: "Higher & colder.",
+answer3: "Warmer & lower.",
+answer4: "Higher & warmer.",
+correctAnswer: 2
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-   
-   
-   
-   
-   
 
    
   }
