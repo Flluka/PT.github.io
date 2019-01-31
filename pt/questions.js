@@ -805,7 +805,160 @@ answer2: "Higher & colder.",
 answer3: "Warmer & lower.",
 answer4: "Higher & warmer.",
 correctAnswer: 2
-
+ },
+  {
+ question:
+      "What type of air mass reach Europe with a south-westerly airflow, during summer? ",
+    answer1: "cE",
+    answer2: "mE",
+    answer3: "mT",
+    answer4: "cT",
+    correctAnswer: 3
+  },
+  {
+    question:
+      "Where do you find the most probable location for finding FZRA during wintertime ",
+    answer1: "In front of a cold front",
+    answer2: "Behind a cold front",
+    answer3: "In front of a warm front",
+    answer4: "Behind a warm front",
+    correctAnswer: 3
+  },
+  {
+    question: "Tropical Revolving Storms can effect the Florida area of the USA during;",
+    answer1: "May",
+    answer2: "December",
+    answer3: "February",
+    answer4: "August",
+    correctAnswer: 4
+  },
+  {
+    question: "Flying from Lisbon to Dakar (North-West Africa) during July , where would you expect to find the ITCZ:?",
+    answer1: "The Canaries",
+    answer2: "Close to Dakar",
+    answer3: "Ober Algiers",
+    answer4: "At the equator",
+    correctAnswer: 2
+  },
+  {
+    question:
+      "Before making your approach to India the latest TAF states: TEMPO 1212/1216 +TS. what is likely total time for +TS during the afternoon:",
+    answer1: "1h",
+    answer2: "2h",
+    answer3: "4h",
+    answer4: "6h",
+    correctAnswer: 2
+  },
+  {
+    question:
+      "What effect does temperature have on tropical revolving storms?",
+    answer1: "Ocean temperature below 29C causes tropical revolving storms to dissipate",
+    answer2: "Ocean temperature of at least 26,5C are required to sustain a tropical revolving storm",
+    answer3: "Temperature will not affect the storms, as long as there is an adequate supply of moisture",
+    answer4: "Ocean temperatures above 31C are required to sustain a tropical revolving storm",
+    correctAnswer: 2
+  },
+  {
+    question: "With regard to Darwin in Northern Australia, what weather would you expect to encounter in July?",
+    answer1: "Dry weather associated with high pressure and the ITCZ",
+    answer2: "Dry with little or no cloud, possible reduction in visibility due to dusty conditions in NE winds",
+    answer3: "Dry with little or no cloud, possible reduction in visibility due to dusty conditions in SE winds",
+    answer4: "Wet and stormy from Cu/Cb/Ts from the SW monsoon",
+    correctAnswer: 3
+  },
+  {
+    question: "With regard to airframe icing and supercooled water droplets. What type of ice is associated with the droplets striking the airframe partly freezing on impact, and an amount flowing back before freezing?",
+    answer1: "Rime ice",
+    answer2: "Clear Ice",
+    answer3: "Hoar Frost",
+    answer4: "Opaque",
+    correctAnswer: 2
+  },
+  {
+    question:
+      "The Bora wind is",
+    answer1: "A katabatic wind that blows from Balkan to the Mediterranean sea",
+    answer2: "An anabatic wind that blows from the Mediterranean sea to balkan",
+    answer3: "An anabatic wind that blows from the Mediterranean sea to the Alps",
+    answer4: "The same as a foehn wind",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "How are well separated CB clouds described on the significant weather chart?",
+    answer1: "EMBD",
+    answer2: "NSC",
+    answer3: "FRE",
+    answer4: "OCNL",
+    correctAnswer: 4
+  },
+  {
+    question: "METAR: ENGM 210200Z 13014KT 2000 FZFG FEW010 10/12 Q1001 What does the abbreviation FZFG mean:",
+    answer1: "Heavy precipitation ",
+    answer2: "freezing fog",
+    answer3: "freezing clouds",
+    answer4: "Wind calm",
+    correctAnswer: 2
+  },
+  {
+    question: "How is the wind measured for a METAR",
+    answer1: "wind direction is given with reference to grid north",
+    answer2: "The wind is measured from magnetic north",
+    answer3: "The wind is given with reference to true north",
+    answer4: "The wind blows towards magnetic north",
+    correctAnswer: 3
+  },
+  {
+    question: "In a METAR you see the coding R16/P1300. What does the imply?",
+    answer1: "RVR has passed the maximum value which is possible to measure with this transmissometer",
+    answer2: "RVR equipment is problematic",
+    answer3: "RVR is improving",
+    answer4: "RVR is varying",
+    correctAnswer: 1
+  },
+  {
+    question: "Which of the four answers is a correct interpretation of data from the following METAR? 16003KT 0400 R14/1500 R16/1000N FZFG VV03 M02/M02 Q1026 BECMG 2000=",
+    answer1: "meteorological visibility 1000, RVR 400 meter freezing level at 300 meters variable winds temperature winds",
+    answer2:
+      "meteorological visibility 400m RVR for runway 16 1000m dewpoint -2 freezing fog",
+    answer3: "RVR for runway 16 1000ft meteorological visibility increasing in the next 2 hours 2000m vertical visibility 300m temperature -2",
+    answer4:
+      "RVR for runway 14 is less than 1500m meteorological visibility 400m QNH 1026 wind 160 at 3kt",
+    correctAnswer: 2
+  },
+  {
+    question: "For how long is a TAF valid",
+    answer1: "9h",
+    answer2: "6-9h",
+    answer3: "the period of the validity is given in the TAF",
+    answer4: "6h",
+    correctAnswer: 3
+  },
+  {
+    question: "The air density is e.g. important when you will create lift. When will the air density be greatest?:",
+    answer1: "At an airport at height and at high temperature",
+    answer2: "At an airport at low areas at high temperatures",
+    answer3: "At an airport at low areas and at low temperatures and at high pressure",
+    answer4: "At an airport at height with high relative humidity",
+    correctAnswer: 3
+  },
+  {
+    question:
+      "When will the surface wind in a METAR record a gust factor",
+    answer1: "> or = mean wind at +10kt",
+    answer2: "When the mean wind is higher than 10kt",
+    answer3: "When the mean wind is higher than 5kt",
+    answer4: "Always",
+    correctAnswer: 1
+  },
+  {
+    question:
+      "in aerodrome reports and forecasts the height of the cloudbase refers to?",
+    answer1: "The height above mean sea level",
+    answer2: "The height above aerodrome elevation",
+    answer3: "The pressure altitude of the cloudbase",
+    answer4: "The height above the highest peak, hill or mountain in the area",
+    correctAnswer: 2
 
    
   }
