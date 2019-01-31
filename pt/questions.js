@@ -476,9 +476,7 @@ TAF 2310/2319 24014KT 6000 SCT030 BKN100 TEMPO 2311/2313 25020G38KT 2500 +TSRA S
   correctAnswer: 4
  },
   {
-  question: "Refer to following TAF extract
-  BECMG 1821 2000 BR BKN004 2124 0500 FG VV001
-  What visibility is forecast for 2400UTC",
+  question: "Refer to following TAF extract BECMG 1821 2000 BR BKN004 2124 0500 FG VV001 What visibility is forecast for 2400UTC",
   answer1: "500M", 
   answer2: "2000M",
   answer3: "Between 500m and 2000m",
@@ -486,9 +484,7 @@ TAF 2310/2319 24014KT 6000 SCT030 BKN100 TEMPO 2311/2313 25020G38KT 2500 +TSRA S
   correctAnswer: 1
  },
   {
-  question: "Refer to the following TAF extract
-BECMG 1821 2000 BR BKN004 BECMG 2124 0500 FG VV001
-What does the BECMG data indicate for 18 and 21 hour time frame?",
+  question: "Refer to the following TAF extract BECMG 1821 2000 BR BKN004 BECMG 2124 0500 FG VV001 What does the BECMG data indicate for 18 and 21 hour time frame?",
   answer1: "The new conditions are achieved between 1800 and 2100 UTC",
   answer2: "many long term changes in the original weather",
   answer3: "Many short term changes in the original weather",
@@ -496,9 +492,7 @@ What does the BECMG data indicate for 18 and 21 hour time frame?",
  correctAnswer: 1
  },
   {
-  question: "Refer to the following extract
-BECMG 1821 2000 BR BKN004 BECMG 2124 0500 FG VV001
-What does the abbreviation BKN004 mean?",
+  question: "Refer to the following extract BECMG 1821 2000 BR BKN004 BECMG 2124 0500 FG VV001  What does the abbreviation BKN004 mean?",
   answer1: "5-7 octas, ceiling 400ft",
   answer2: "1-2 octas, ceiling 400ft",
   answer3: "1-4 octas, ceiling 400m",
