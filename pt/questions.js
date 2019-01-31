@@ -651,8 +651,7 @@ correctAnswer: 2
     correctAnswer: 3
   },
   {
-    question: "An aircraft is flying at FL60 indicated towards a mountain range with an elevation of 3900'.       
-    if during the flight the QNH in the mountain area falls to 989 hPa and the altimeter sub scale is not reset, what will the terrain clearence be over the mountain range;",
+    question: "An aircraft is flying at FL60 indicated towards a mountain range with an elevation of 3900'.if during the flight the QNH in the mountain area falls to 989 hPa and the altimeter sub scale is not reset, what will the terrain clearence be over the mountain range;",
     answer1: "2748",
     answer2: "2100",
     answer3: "2568",
