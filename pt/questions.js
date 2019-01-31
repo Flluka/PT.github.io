@@ -736,7 +736,7 @@ correctAnswer: 3
  },
   {
 question: "What is the relationship between RVR and Meteorological visibility in homogenous fog?",
-answer1: "RVR=MET-visibility.".
+answer1: "RVR=MET-visibility.",
 answer2: "RVR > MET-visibility.",
 answer3: "RVR < MET-visibility.",
 answer4: "Can’t be stated with the conditions given.",
