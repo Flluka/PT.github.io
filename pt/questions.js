@@ -163,7 +163,7 @@
   answer1: "ridge of a high pressure",
   answer2: "A Col",
   answer3: "An Anticyclone",
-  answer41: "A depression",
+  answer4: "A depression",
   correctAnswer: 4
  },
   { 
