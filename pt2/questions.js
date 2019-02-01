@@ -2,11 +2,11 @@ const questions = [
   {
     question:
       "Flight from Bordeaux to Amsterdam, ETA 2100UTC. What is the minimum visibility forecast for ETA Amsterdam? TAF EHAM 281500Z 281601 14010KT 6000-RA SCT025 BECMG 1618 12015G25KT SCT008 BKN013 TEMPO1823 3000 RA BKN005 OVC010 BECMG 2301 25020KT 8000 NSW",
-    answer1: "3km",
+    answer1: "5km",
     answer2: "5NM",
-    answer3: "5km",
+    answer3: "3km",
     answer4: "6km",
-    correctAnswer: 1
+    correctAnswer: 3
   },
   {
     question:
@@ -54,11 +54,11 @@ const questions = [
   },
   {
     question: "Refeer to diagram 132. Assuming the usual direction of movement, to which position will the polar frontal wave have moved?",
-    answer1: "4",
+    answer1: "3",
     answer2: "2",
-    answer3: "3",
+    answer3: "4",
     answer4: "1",
-    correctAnswer: 3
+    correctAnswer: 1
   },
   {
     question:
@@ -121,11 +121,11 @@ const questions = [
   {
     
     question: "Between which latitudes are you most likely to find the subtropical high-pressure belt?",
-    answer1: "25° - 35°",
+    answer1: "55° - 75°",
     answer2: "35° - 55°",
-    answer3: "55° - 75°",
+    answer3: "25° - 35°",
     answer4: "10° - 15°",
-    correctAnswer: 1
+    correctAnswer: 3
   },
   {
     question:
@@ -148,18 +148,18 @@ const questions = [
     question:"The approximate inclined plane of a warm front is",
     answer1: "1/500",
     answer2: "1/300",
-    answer3: "1/250",
-    answer4: "1/150",
-    correctAnswer: 4
+    answer3: "1/150",
+    answer4: "1/250",
+    correctAnswer: 3
   },
   {
     question:
       "Refer to diagram 135. Assuming the usual direction of movement, where will this polar frontal wave have moved?",
     answer1: "1",
-    answer2: "2",
+    answer2: "3",
     answer3: "4",
-    answer4: "3",
-    correctAnswer: 4
+    answer4: "2",
+    correctAnswer: 2
   },
   {
     question:
@@ -193,9 +193,9 @@ const questions = [
       "The trade winds on the northern hemisphere blow from",
     answer1: "West",
     answer2: "South - West",
-    answer3: "North - East",
-    answer4: "North",
-    correctAnswer: 3
+    answer3: "North",
+    answer4: "North - East",
+    correctAnswer: 4
   },
   {
     question: "What is the main energy source of a tropical revolving storm?",
@@ -216,19 +216,19 @@ const questions = [
   {
     question: "With regard to airframee icing and super cooled water droplets, what type of ice is associated with the droplets striking the airframe partly freezing on impact, and an amount flowing back before freezing.",
     answer1: "Rime Ice",
-    answer2: "Clear Ice",
+    answer2: "Opaque",
     answer3: "Hoar Frost",
-    answer4: "Opaque",
-    correctAnswer: 2
+    answer4: "Clear Ice",
+    correctAnswer: 4
     
      },
   {
     question: "If air in transit is heated from below it tends to become more",
     answer1: "Neutrally stable",
-    answer2: "Unstable",
+    answer2: "stable",
     answer3: "none of these",
-    answer4: "stable",
-    correctAnswer: 2
+    answer4: "Unstable",
+    correctAnswer: 4
     
      },
   {
@@ -242,11 +242,11 @@ const questions = [
       },
   {
     question: "When do cold occlusions occur most frequently in Europe?",
-    answer1: "Summer",
+    answer1: "Winter",
     answer2: "Winter and spring",
-    answer3: "Winter",
+    answer3: "Summer",
     answer4: "Autumn and winter",
-    correctAnswer: 1
+    correctAnswer: 3
       },
   {
     question: "What is the type, intensity and seasonal variation of precipitation in the equatorial region",
@@ -260,8 +260,8 @@ const questions = [
   question: "Which of the following pressure systems is most likely to be associated with strong winds?",
   answer1: "ridge of a high pressure",
   answer2: "A Col",
-  answer3: "An Anticyclone",
-  answer4: "A depression",
-  correctAnswer: 4
+  answer3: "A depression",
+  answer4: "An Anticyclone",
+  correctAnswer: 3
   }
 ];
