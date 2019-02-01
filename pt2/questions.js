@@ -255,5 +255,13 @@ const questions = [
     answer3: "Showers of rain occur throughout the year, the frequency is highest in January",
     answer4: "Precipitation is generally in the form of showers but continuous rain occurs also. The greatest intensity is in July",
     correctAnswer: 2
+    },
+  {
+  question: "Which of the following pressure systems is most likely to be associated with strong winds?",
+  answer1: "ridge of a high pressure",
+  answer2: "A Col",
+  answer3: "An Anticyclone",
+  answer4: "A depression",
+  correctAnswer: 4
   }
 ];
