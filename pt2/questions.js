@@ -246,7 +246,7 @@ const questions = [
 
       },
   {
-    question: "An aircraft takes off from the aerodrome with 14 000lb of fuel with SG 0.8. After 15 hours, how much fuel remains with a consumption of 850lmp Gals/hr?",
+    question: "An aircraft takes off from the aerodrome with 140 000lb of fuel with SG 0.8. After 15 hours, how much fuel remains with a consumption of 850lmp Gals/hr?",
     answer1: "41 000lb",
     answer2: "38 000lb",
     answer3: "35 000lb",
