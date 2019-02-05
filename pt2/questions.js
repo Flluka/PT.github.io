@@ -263,7 +263,7 @@ const questions = [
     
     },
   {
-    question: "The weight in pounds of litres of fuel at SG 0.79 is:",
+    question: "The weight in pounds of 6550 litres of fuel at SG 0.79 is:",
     answer1: "11400",
     answer2: "12400",
     answer3: "10400",
