@@ -93,7 +93,7 @@ const questions = [
   {
     question: "Pressure Altitude 30 000ft, Temperature -40°C, CAS = 260kts. What is TAS?",
     answer1: "415kt",
-    answer2: "413kt ",
+    answer2: "414kt ",
     answer3: "421kt",
     answer4: "412kt",
     correctAnswer: 4
