@@ -1,5 +1,5 @@
 const questions = [
-  const questions = [
+
   {
     question:"Given: True Heading = 310°, TAS = 200kt, GS = 176kt, Drift Angle 7° right. Calculate the W/V?",
     answer1: "270°/33kts",
@@ -180,7 +180,6 @@ const questions = [
     answer4: "-40",
     correctAnswer: 2
 
-
       },
   {
     question: "The distance between position A and B is 180NM. An aircraft departs postion A and after having travelled 60NM, its position is pinpointed 4NM left of the intended trac. Assuming no change in wind velocity, what alteration of heading must be made in order to arrive at position B?",
@@ -234,6 +233,8 @@ const questions = [
     answer4: "0.89",
     correctAnswer: 3
 
+
+
     },
   {
     question: "Given: True HDG = 307°, TAS = 230kt, Track (T) = 313°, GS = 210kt. Calculate W/V ",
@@ -242,7 +243,6 @@ const questions = [
     answer3: "260°/30kts",
     answer4: "265°/30kts",
     correctAnswer: 3
-
 
       },
   {
@@ -262,9 +262,14 @@ const questions = [
     answer4: "0.87",
     correctAnswer: 3
 
+
     },
   {
     question: "The weight in pounds of 6550 litres of fuel at SG 0.79 is:",
+
+    },
+  {
+    question: "The weight in pounds of litres of fuel at SG 0.79 is:",
     answer1: "11400",
     answer2: "12400",
     answer3: "10400",
