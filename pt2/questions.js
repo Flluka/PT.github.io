@@ -191,15 +191,6 @@ const questions = [
     
    },
   {
-    question: "Which statement regarding the triangle of velocities is correct?",
-    answer1: "The three vectors must represent the same unit of time",
-    answer2: "Finner ikke alternativ",
-    answer3: "Finner ikke alternativ",
-    answer4: "Finner ikke alternativ",
-    correctAnswer: 1
-    
-   },
-  {
     question: "Given: True HDG = 233°, TAS = 480kts, Track (T) = 240°, GS = 523kts. Calculate the W/V?",
     answer1: "105°/75kts",
     answer2: "110°/75kts",
