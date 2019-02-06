@@ -270,7 +270,7 @@ const questions = [
     answer4: "From the end of the ground vector to the end of the air vector ",
     correctAnswer: 2
     
-      },
+   },
   {
     question: "Given: Distamce A to B = 120NM. After 60NM aircraft is 4NM to the left of course. What heading alteration should be made in order to arrive at point B?",
     answer1: "8° right",
@@ -279,7 +279,7 @@ const questions = [
     answer4: "4° right",
     correctAnswer: 1
     
-        },
+   },
   {
     question: "Your heading is 359°. Your drift is 2° Starboard (right). Variation is 7°E. Deviation is -1°. What is your compass track? ",
     answer1: "353°",
