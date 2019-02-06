@@ -1,4 +1,5 @@
 const questions = [
+
   {
     question:"Given: True Heading = 310°, TAS = 200kt, GS = 176kt, Drift Angle 7° right. Calculate the W/V?",
     answer1: "270°/33kts",
@@ -14,7 +15,7 @@ const questions = [
     answer3: "473kts",
     answer4: "497",
     correctAnswer: 1
-    
+
   },
   {
     question: "Given: Distamce A to B = 120NM. After 60NM aircraft is 4NM to the right of couse. What heading alteration should be made in order to arrive at point B?",
@@ -92,7 +93,7 @@ const questions = [
   {
     question: "Pressure Altitude 30 000ft, Temperature -40°C, CAS = 260kts. What is TAS?",
     answer1: "415kt",
-    answer2: "413kt ",
+    answer2: "414kt ",
     answer3: "421kt",
     answer4: "412kt",
     correctAnswer: 4
@@ -114,7 +115,7 @@ const questions = [
     correctAnswer: 2
   },
   {
-    
+
     question: "Your required track (the track you must fly) is 045(T). Your drift will be 20° starboard. Variation is +10°. What magnetic heading should you fly to give the required track? ",
     answer1: "055° (M)",
     answer2: "017° (M)",
@@ -178,8 +179,7 @@ const questions = [
     answer3: "-50",
     answer4: "-40",
     correctAnswer: 2
-    
-    
+
       },
   {
     question: "The distance between position A and B is 180NM. An aircraft departs postion A and after having travelled 60NM, its position is pinpointed 4NM left of the intended trac. Assuming no change in wind velocity, what alteration of heading must be made in order to arrive at position B?",
@@ -188,7 +188,16 @@ const questions = [
     answer3: "4° right",
     answer4: "8° right",
     correctAnswer: 2
-    
+
+   },
+  {
+    question: "Which statement regarding the triangle of velocities is correct?",
+    answer1: "The three vectors must represent the same unit of time",
+    answer2: "Finner ikke alternativ",
+    answer3: "Finner ikke alternativ",
+    answer4: "Finner ikke alternativ",
+    correctAnswer: 1
+
    },
   {
     question: "Given: True HDG = 233°, TAS = 480kts, Track (T) = 240°, GS = 523kts. Calculate the W/V?",
@@ -214,7 +223,7 @@ const questions = [
     answer3: "24kts",
     answer4: "18kts",
     correctAnswer: 1
-    
+
     },
   {
     question: "Given: TAS 470kts, FL 330, Temperature ISA +6. Calculate the Mach Numder? ",
@@ -223,7 +232,9 @@ const questions = [
     answer3: "0.8",
     answer4: "0.82",
     correctAnswer: 3
-    
+
+
+
     },
   {
     question: "Given: True HDG = 307°, TAS = 230kt, Track (T) = 313°, GS = 210kt. Calculate W/V ",
@@ -232,17 +243,16 @@ const questions = [
     answer3: "260°/30kts",
     answer4: "265°/30kts",
     correctAnswer: 3
-    
-    
+
       },
   {
-    question: "An aircraft takes off from the aerodrome with 14 000lb of fuel with SG 0.8. After 15 hours, how much fuel remains with a consumption of 850lmp Gals/hr?",
+    question: "An aircraft takes off from the aerodrome with 140 000lb of fuel with SG 0.8. After 15 hours, how much fuel remains with a consumption of 850lmp Gals/hr?",
     answer1: "41 000lb",
     answer2: "38 000lb",
     answer3: "35 000lb",
     answer4: "42 000lb",
     correctAnswer: 2
-    
+
   },
   {
     question: "Given: TAS = 485kt, OAT = ISA +10°C, FL 410, Calculate the Mach Number?",
@@ -251,7 +261,8 @@ const questions = [
     answer3: "0.825",
     answer4: "0.87",
     correctAnswer: 3
-    
+
+
     },
   {
     question: "The weight in pounds of 6550 litres of fuel at SG 0.79 is:",
@@ -260,7 +271,7 @@ const questions = [
     answer3: "10400",
     answer4: "9700",
     correctAnswer: 1
-        
+
     },
   {
     question: "Where will the wind vector be drawn in a triangle of velocities?",
@@ -287,6 +298,6 @@ const questions = [
     answer3: "003°",
     answer4: "007°",
     correctAnswer: 2
+
   }
 ];
-
