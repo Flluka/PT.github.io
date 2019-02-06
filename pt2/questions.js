@@ -82,7 +82,7 @@ const questions = [
     correctAnswer: 4
   },
   {
-    question: "Indicated Outside Air Temperature -30°C, TAS 438kts. What is the corrected Outside Air Temperature (COAT)? ",
+    question: "Total Air temperature (TAT) is -30°C, TAS 438kts. What is the static air temperature (SAT)? ",
     answer1: "-56.5°C",
     answer2: "-56°C",
     answer3: "-50°C",
@@ -160,7 +160,7 @@ const questions = [
     answer1: "TAS and Heading ",
     answer2: "Groundspeed and Track",
     answer3: " IAS and Heading",
-    answer4: "CAS and Track",
+    answer4: "Wind direction and speed",
     correctAnswer: 2
   },
   {
@@ -183,9 +183,9 @@ const questions = [
       },
   {
     question: "The distance between position A and B is 180NM. An aircraft departs postion A and after having travelled 60NM, its position is pinpointed 4NM left of the intended trac. Assuming no change in wind velocity, what alteration of heading must be made in order to arrive at position B?",
-    answer1: "6° left",
+    answer1: "2° left",
     answer2: "6° right",
-    answer3: "8° left",
+    answer3: "4° right",
     answer4: "8° right",
     correctAnswer: 2
     
@@ -211,8 +211,8 @@ const questions = [
     question: "The TAS is 500kts, the Mach No is 0,82 What is the ambient temperature. ",
     answer1: "-42°",
     answer2: "-29°",
-    answer3: "-32°",
-    answer4: "-40°",
+    answer3: "244°",
+    answer4: "-109°",
     correctAnswer: 2
 
     },
@@ -227,10 +227,10 @@ const questions = [
     },
   {
     question: "Given: TAS 470kts, FL 330, Temperature ISA +6. Calculate the Mach Numder? ",
-    answer1: "0.7",
-    answer2: "0.9",
+    answer1: "0.725",
+    answer2: "0.81",
     answer3: "0.8",
-    answer4: "0.89",
+    answer4: "0.82",
     correctAnswer: 3
     
     },
@@ -256,7 +256,7 @@ const questions = [
   {
     question: "Given: TAS = 485kt, OAT = ISA +10°C, FL 410, Calculate the Mach Number?",
     answer1: "0.85",
-    answer2: "0.90",
+    answer2: "0.9",
     answer3: "0.825",
     answer4: "0.87",
     correctAnswer: 3
@@ -279,6 +279,23 @@ const questions = [
     answer4: "From the end of the ground vector to the end of the air vector ",
     correctAnswer: 2
     
+      },
+  {
+    question: "Given: Distamce A to B = 120NM. After 60NM aircraft is 4NM to the left of course. What heading alteration should be made in order to arrive at point B?",
+    answer1: "8° right",
+    answer2: "8° left",
+    answer3: "6° right",
+    answer4: "4° right",
+    correctAnswer: 1
+    
+        },
+  {
+    question: "Your heading is 359°. Your drift is 2° Starboard (right). Variation is 7°E. Deviation is -1°. What is your compass track? ",
+    answer1: "353°",
+    answer2: "355°",
+    answer3: "003°",
+    answer4: "007°",
+    correctAnswer: 2
   }
 ];
 
