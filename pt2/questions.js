@@ -198,7 +198,7 @@ const questions = [
   {
     question: "A straight line drawn on a chart measures 4.63cm and represents 150NM. The chart scale is: ",
     answer1: "1:6000000",
-    answer2: "1:1000000",
+    answer2: "1:2000000",
     answer3: "1:3000000",
     answer4: "1:5000000",
     correctAnswer: 1
