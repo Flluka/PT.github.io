@@ -58,7 +58,7 @@ const questions = [
     correctAnswer: 1
   },
   {
-    question: "Given: Magnetic Heading 165°, Drift angle 10° right, Relative bearing of NDB 320°(R). Variation 6°E. Deviation +5°. What is the true bearing of the aircraft measured from the NDB (QTE)",
+    question: "Given: Magnetic Heading 165°, Drift angle 10° right, Relative bearing of NDB 320 (R). Variation 6°E. Deviation +5°. What is the true bearing of the aircraft measured from the NDB (QTE)",
     answer1: "311°(T)",
     answer2: "311°(M)",
     answer3: "300°(T)",
@@ -123,8 +123,7 @@ const questions = [
       correctAnswer: 1
   },
   {
-    question:
-      "An aircraft tracks radial 200 inbound to a VOR station with a Magnetic Heading(MH) of 010°. After being overhead the VOR station the aircraft tracks radial 090° outbound with a MH of 080°. The TAS is 240kt and the magnetic variation in the area is 5°W. What is the wind vector?(°T) ",
+    question: "An aircraft tracks radial 200 inbound to a VOR station with a Magnetic Heading(MH) of 010°. After being overhead the VOR station the aircraft tracks radial 090° outbound with a MH of 080°. The TAS is 240kt and the magnetic variation in the area is 5°W. What is the wind vector?(°T) ",
     answer1: "300°/50kts",
     answer2: "330°/50kts",
     answer3: "320°/50kts",
