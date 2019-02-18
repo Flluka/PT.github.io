@@ -1,5 +1,4 @@
 const questions = [
-
   {
     question:"The distance between positions C and D is 90NM. An aircraft departs position C and after having travelled 30NM, its position is pinpointed 3NM right og the intended track. Assuming no change in wind velocity, what heading alteration must be made in order to arrive at position D? ",
     answer1: "9 Left",
@@ -178,7 +177,7 @@ const questions = [
     answer4: "6°E",
     correctAnswer: 2
 
-      },
+    },
   {
     question: "On a Lamberts Conformal Chart, chart scale is correct?",
     answer1: "At the standard parallels",
