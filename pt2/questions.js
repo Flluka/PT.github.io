@@ -181,7 +181,7 @@ const questions = [
 
       },
   {
-    question: "On a Lamberts Conformal Chart, chart scale is correct?"
+    question: "On a Lamberts Conformal Chart, chart scale is correct?",
     answer1: "At the standard parallels",
     answer2: "At the Parallel of Origin",
     answer3: "Along the prime meridian",
@@ -196,7 +196,6 @@ const questions = [
     answer3: "1 on equatorial Mercator chart",
     answer4: "the difference in direction between Grid North and True North",
     correctAnswer: 4
-
    },
   {
     question: "A straight line drawn on a chart measures 4.63cm and represents 150NM. The chart scale is: ",
@@ -205,98 +204,6 @@ const questions = [
     answer3: "1:3000000",
     answer4: "1:5000000",
     correctAnswer: 1
-     },
-  {
-    question: "The TAS is 500kts, the Mach No is 0,82 What is the ambient temperature. ",
-    answer1: "-42°",
-    answer2: "-29°",
-    answer3: "244°",
-    answer4: "-109°",
-    correctAnswer: 2
-
-    },
-  {
-    question: "Given: Runway direction 305°(M), Surface W/V 260°(M)/30kt. Calculate the crosswind component?",
-    answer1: "21kts",
-    answer2: "27kts",
-    answer3: "24kts",
-    answer4: "18kts",
-    correctAnswer: 1
-
-    },
-  {
-    question: "Given: TAS 470kts, FL 330, Temperature ISA +6. Calculate the Mach Numder? ",
-    answer1: "0.725",
-    answer2: "0.81",
-    answer3: "0.8",
-    answer4: "0.82",
-    correctAnswer: 3
-
-
-
-    },
-  {
-    question: "Given: True HDG = 307°, TAS = 230kt, Track (T) = 313°, GS = 210kt. Calculate W/V ",
-    answer1: "255°/25kts",
-    answer2: "257°/35kts",
-    answer3: "260°/30kts",
-    answer4: "265°/30kts",
-    correctAnswer: 3
-
-      },
-  {
-    question: "An aircraft takes off from the aerodrome with 140 000lb of fuel with SG 0.8. After 15 hours, how much fuel remains with a consumption of 850lmp Gals/hr?",
-    answer1: "41 000lb",
-    answer2: "38 000lb",
-    answer3: "35 000lb",
-    answer4: "42 000lb",
-    correctAnswer: 2
-
-  },
-  {
-    question: "Given: TAS = 485kt, OAT = ISA +10°C, FL 410, Calculate the Mach Number?",
-    answer1: "0.85",
-    answer2: "0.9",
-    answer3: "0.825",
-    answer4: "0.87",
-    correctAnswer: 3
-
-
-    },
-  {
-    question: "The weight in pounds of 6550 litres of fuel at SG 0.79 is:",
-    answer1: "11400",
-    answer2: "12400",
-    answer3: "10400",
-    answer4: "9700",
-    correctAnswer: 1
-
-    },
-  {
-    question: "Where will the wind vector be drawn in a triangle of velocities?",
-    answer1: "From the beginning of the ground vector to the end of the air vector",
-    answer2: "From the end of the air vector to the end of the ground vector",
-    answer3: "From the beginning of the air vector to the end of the ground vector",
-    answer4: "From the end of the ground vector to the end of the air vector ",
-    correctAnswer: 2
-    
-   },
-  {
-    question: "Given: Distamce A to B = 120NM. After 60NM aircraft is 4NM to the left of course. What heading alteration should be made in order to arrive at point B?",
-    answer1: "8° right",
-    answer2: "8° left",
-    answer3: "6° right",
-    answer4: "4° right",
-    correctAnswer: 1
-    
-   },
-  {
-    question: "Your heading is 359°. Your drift is 2° Starboard (right). Variation is 7°E. Deviation is -1°. What is your compass track? ",
-    answer1: "353°",
-    answer2: "355°",
-    answer3: "003°",
-    answer4: "007°",
-    correctAnswer: 2
 
   }
 ];
