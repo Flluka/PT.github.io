@@ -198,10 +198,124 @@ const questions = [
   {
     question: "A straight line drawn on a chart measures 4.63cm and represents 150NM. The chart scale is: ",
     answer1: "1:6000000",
-    answer2: "1:2000000",
+    answer2: "1:1000000",
     answer3: "1:3000000",
     answer4: "1:5000000",
     correctAnswer: 1
-
+   },
+  {
+    question: "What is th approximate latitude of the Tropic of Capricorn? ",
+    answer1: "23.5°N",
+    answer2: "23.5°S",
+    answer3: "66.5°N",
+    answer4: "45.0°N/S",
+    correctAnswer: 2
+    
+    },
+  {
+    question: "Given: True Track 245° Drift 5° right Variation 3°E. Compass hdg 242°. Calculate the Magnetic Heading?",
+    answer1: "247°",
+    answer2: "243°",
+    answer3: "237°",
+    answer4: "253°",
+    correctAnswer: 3
+    
+    },
+  {
+    question: "A useful method of pilot resolving, during visual flight, any uncertainty in the aircrafts position is to maintain visual contact with the ground and: ",
+    answer1: "set heading towards a line feature such as coastline, motorway, river or railway",
+    answer2: "fly the reverse of the heading being flown prior to becoming uncertain until a pinpoint is obtained",
+    answer3: "fly the expanding circles until a pinpoint is obtained",
+    answer4: "fly reverse headings and associated timings until the point of departure is regained",
+    correctAnswer: 1
+    
+   },
+  {
+    question: "An aircraft is flying from SALCO to BERRY HEAD on magnetic track 007°, TAS 445kt. The wind is 050°(T)/40kt. Variation 5°W, deviation +2° at 1000UTC the relative bearing of locator PY is 311°. At 1003UTC the relative bearing of locator PY is 266°. Calculate the distance of the aircraft from locator PY at 1003UTC",
+    answer1: "22NM",
+    answer2: "21NM",
+    answer3: "23NM",
+    answer4: "24NM",
+    correctAnswer: 2
+    
+   },
+  {
+    question: "On which of the following chart projections is it not possible to represent the North and South Poles", 
+    answer1: "Lamberts Conformal",
+    answer2: "Direct Mercator",
+    answer3: "Transverse Mercator",
+    answer4: "Polar stereographic",
+    correctAnswer: 2
+    
+    },
+  {
+    question: "On a True Heading of 090° the aircraft experiences drift of 5°R. On a true Heading of 180° the aircraft experiences no drift. On both headings the TAS is 200kt and it is assumed that the wind is the same. What is the experienced wind speed and direction ",
+    answer1: "360°/34kt",
+    answer2: "360°/17kt",
+    answer3: "180°/34kt",
+    answer4: "180°/17kt",
+    correctAnswer: 2
+    
+    },
+  {
+    question: "The Equation of time: ",
+    answer1: "states the difference in time of transit of the mean sun and the apparent sun any particular day ",
+    answer2: "states the differences between celestial time an apparent time",
+    answer3: "is used to calculate mean time when standard time is known ",
+    answer4: "is used when calculating the difference between UTC and LMT",
+    correctAnswer: 1 
+    
+   },
+  {
+    question: "An aircraft take off from an aerodrome with an elevation of 1483FT, QFE = 963hPa. Five minutes later, passing 5000FT on the QFE, the second altimeter set on 1013hPa will indicate approximately: (use 1hPa = 30ft) ",
+    answer1: "6900FT",
+    answer2: "6500FT",
+    answer3: "3500FT",
+    answer4: "4000FT",
+    correctAnswer: 2
+    
+   },
+  {
+    question: "Given: Pressure altitude 29000FT, OAT -55°C. QNH 1013hPa. Calculate the Density Altitude?  ",
+    answer1: "33500FT",
+    answer2: "27500FT",
+    answer3: "31000FT",
+    answer4: "26000FT",
+    correctAnswer: 2
+    },
+  {
+    question: "Given: Distance A to B is 100NM. Fix obtained 40NM along and 6NM to the left of the course. What heading alterartion must be mate to reach B? ",
+    answer1: "6°Right ",
+    answer2: "9°Right",
+    answer3: "15°Right",
+    answer4: "18°Right",
+    correctAnswer: 3
+    
+    },
+  {
+    question: "Given: A polar stereographic chart in the northern hemisphere, whose grid is aligned with the prime meridian. Grid track 344°(G), Longitude 115°00´W. Calculate the True course?",
+    answer1: "099°(T)",
+    answer2: "229°(T)",
+    answer3: "279°(T)",
+    answer4: "049°(T)",
+    correctAnswer: 2
+    
+    },
+  {
+    question: "Given: Magnetic Heading 311°, Drift angle 10°left, Relative bearing of NDB 270°(R). what is the magnetic bearing of the NDB measured from the aircraft (QDM to the NDB) ",
+    answer1: "211°",
+    answer2: "208°",
+    answer3: "221°",
+    answer4: "180°",
+    correctAnswer: 3
+    
+   },
+  {
+    question: "An aircraft is planned to fly from position A to position , distance 250NM at an average GS of 115kts. It departs A at 09:00UTC. After flying 75NM along track from A, the aircraft is 1.5NM behind planned time. Using the actual GS experienced, what is the revised ETA at B?",
+    answer1: "1110UTC",
+    answer2: "1115UTC",
+    answer3: "1044UTC",
+    answer4: "1050UTC",
+    correctAnswer: 2
   }
 ];
