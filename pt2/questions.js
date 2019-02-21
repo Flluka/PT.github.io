@@ -317,5 +317,41 @@ const questions = [
     answer3: "1044UTC",
     answer4: "1050UTC",
     correctAnswer: 2
+    
+       },
+  {
+    question: "On a direct mercator chart, a rhumb line appears as a:",
+    answer1: "Straight line",
+    answer2: "curve convex to the nearer pole ",
+    answer3: "omplex/spiral curve",
+    answer4: "small circle concave to the nearer pole",
+    correctAnswer: 1
+    
+   },
+  {
+    question: "Which statement is true about the parallel of origin of a conformal chart? ",
+    answer1: "The parallel of origin together with the standard parallel(s), are the only parallels at which the chart is conformal",
+    answer2: "The parallel of origin is the parallel at which the scale reaches its minimum value ",
+    answer3: "The parallel of origin is the parallel at which the scale reaches its maximum value ",
+    answer4: "The parallel of origin is the only parallel at which the chart is conformal",
+    correctAnswer: 2
+    
+   },
+  {
+    question: "Given: ILS GP angle = 3.5%, GS = 150kt. What is the approximate rate of descent? ",
+    answer1: "700FT/MIN",
+    answer2: "800FT/MIN ",
+    answer3: "900FT/MIN ",
+    answer4: "1000FT/MIN",
+    correctAnswer: 3
+    
+      },
+  {
+    question: "An aircraft flies from waypoint 7 (63°00´N, 073°00´W) to waypoint 8 (63°00´N, 073°00´W). The aircraft position is (62°00´N. 073°10´W). The cross track distance in relation to the planned track is:",
+    answer1: "8.8NM L",
+    answer2: "4.7NM R",
+    answer3: "8.8NM R ",
+    answer4: "4.7NM L",
+    correctAnswer: 2
   }
 ];
