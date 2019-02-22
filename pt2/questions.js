@@ -62,7 +62,7 @@ const questions = [
     answer2: "311°(M)",
     answer3: "300°(T)",
     answer4: "311°(T)",
-    correctAnswer: 1
+    correctAnswer: 4
   },
   {
     question:"265 US - GAL equals? (specific gravity 0.80) ",
