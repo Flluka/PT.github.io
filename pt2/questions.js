@@ -307,7 +307,7 @@ const questions = [
     answer2: "208°",
     answer3: "221°",
     answer4: "180°",
-    correctAnswer: 3
+    correctAnswer: 3      
     
    },
   {
@@ -353,5 +353,14 @@ const questions = [
     answer3: "8.8NM R ",
     answer4: "4.7NM L",
     correctAnswer: 1
+    
+        },
+  {
+    question: "A lambert conformal chart has standard parallels of 48°N and 60°N. What is constant of the cone?",
+    answer1: "0.809",
+    answer2: "0.588",
+    answer3: "0.866 ",
+    answer4: "0.743",
+    correctAnswer: 3
   }
 ];
