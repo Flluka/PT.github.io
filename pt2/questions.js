@@ -312,7 +312,7 @@ const questions = [
    },
   {
     question: "An aircraft is planned to fly from position A to position , distance 250NM at an average GS of 115kts. It departs A at 09:00UTC. After flying 75NM along track from A, the aircraft is 1.5NM behind planned time. Using the actual GS experienced, what is the revised ETA at B?",
-    answer1: "11150UTC",
+    answer1: "1115UTC",
     answer2: "1110UTC",
     answer3: "1044UTC",
     answer4: "1050UTC",
