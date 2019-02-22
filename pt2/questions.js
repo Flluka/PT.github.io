@@ -289,7 +289,7 @@ const questions = [
     answer2: "9°Right",
     answer3: "18°Right",
     answer4: "15°Right",
-    correctAnswer: 3
+    correctAnswer: 4
     
     },
   {
