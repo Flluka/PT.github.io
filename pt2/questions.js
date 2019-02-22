@@ -347,7 +347,7 @@ const questions = [
     
       },
   {
-    question: "An aircraft flies from waypoint 7 (63°00´N, 073°00´W) to waypoint 8 (63°00´N, 073°00´W). The aircraft position is (62°00´N. 073°10´W). The cross track distance in relation to the planned track is:",
+    question: "An aircraft flies from waypoint 7 (63°00´N, 073°00´W) to waypoint 8 (62°00´N, 073°00´W). The aircraft position is (62°00´N. 073°10´W). The cross track distance in relation to the planned track is:",
     answer1: "4.7NM R",
     answer2: "8.8NM L",
     answer3: "8.8NM R ",
