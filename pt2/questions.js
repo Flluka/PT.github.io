@@ -361,6 +361,6 @@ const questions = [
     answer2: "0.588",
     answer3: "0.866 ",
     answer4: "0.743",
-    correctAnswer: 3
+    correctAnswer: 1
   }
 ];
