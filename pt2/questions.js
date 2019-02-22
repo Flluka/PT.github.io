@@ -272,7 +272,7 @@ const questions = [
     answer2: "4000FT",
     answer3: "3500FT",
     answer4: "6500FT",
-    correctAnswer: 2
+    correctAnswer: 4
     
    },
   {
