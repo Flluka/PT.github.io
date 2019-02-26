@@ -354,7 +354,7 @@ const questions = [
     answer4: "4.7NM L",
     correctAnswer: 1
 
-        },
+   },
   {
     question: "A lambert conformal chart has standard parallels of 48°N and 60°N. What is constant of the cone?",
     answer1: "0.809",
@@ -364,7 +364,7 @@ const questions = [
     correctAnswer: 1
   },
 {
-    Question:"With respect to chart projections, what does "conformal" mean?",
+    Question:"With respect to chart projections, what does conformal mean?",
         answer1: "Angles on the earth varies with longitude",
         answer2: "Angles on the earth are variable",
         answer3: "Angles on the earth are incorrectly represented on the chart",
@@ -400,7 +400,6 @@ const questions = [
         correctAnswer: 3
       },
     {
-
         question:"On a normal mercator chart, scale is",
         answer1: "Correct at the north pole",
         answer2: "Correct at equator",
@@ -409,17 +408,14 @@ const questions = [
         correctAnswer: 2
       },
     {
-
         question:"If the scale at 60S on a direct mercator is 10: 10 000 000 -> what is the scale at equator?",
         answer1: "1:3 000 000",
         answer2: "1: 7 000 000 ",
         answer3: "1:15 000 000”,
-        answer4: "1:20 000 000”,
+        answer4: "",
         correctAnswer: 4
-
       },
     {
-
         question:"On a direct mercator  chart at latitude 15*S a certain length represents a distance of 120 nm on the earth. The same length on the chart will represent on the Earth, at latitude 10*N, a distance of",
         answer1: "122.3 nm",
         answer2: "119 nm ",
@@ -428,7 +424,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"On a lambert conformal conic chart, greath circles that are not meridians are:",
         answer1: "Convex lines joining at the poles",
         answer2: "Straight lines",
@@ -456,7 +451,7 @@ const questions = [
       },
     {
 
-    question:""Grid convergence"",
+    question:"Grid convergence",
         answer1: "Is southerly for positions east of the grid datum meridian in the northern hemisphere.",
         answer2: "Is easterly for positions east of the grid datum meridian in the northern hemisphere.",
         answer3: "Is westerly for positions east of the grid datum meridian in the northern hemisphere.",
@@ -600,7 +595,7 @@ const questions = [
       },
     {
 
-    question:"Given distance "A to B is 90 nm. Fix is obtained 60 nm along and 4 nm to the right of course..",
+    question:"Given distance A to B is 90 nm. Fix is obtained 60 nm along and 4 nm to the right of course",
         answer1: "3R",
         answer2: "8L",
         answer3: "12L",
@@ -636,7 +631,7 @@ const questions = [
       },
     {
 
-    question:"Given distance "A" to "B" is 90 nm. Fix is obtained 60 nm along and 4 nm to the right of course..",
+    question:"Given distance "A to B is 90 nm. Fix is obtained 60 nm along and 4 nm to the right of course",
         answer1: "3R",
         answer2: "8L",
         answer3: "12L",
@@ -654,7 +649,7 @@ const questions = [
       },
     {
 
-    question:"The term "Aphelion" is used to describe:",
+    question:"The term Aphelion is used to describe:",
         answer1: "The situation when the distance between the sun and the earth is the longest.",
         answer2: "The situation when the distance between the sun and the earth is the closest.",
         answer3: "The situation when the distance between the sun and the earth is the very close",
@@ -662,7 +657,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"If the LMT in Singapore (0000 N 104*39´E) is 0815 on 8 december, what is the LMT in honolulu hawai, USA (23*00´N 157*17´W)",
         answer1: "1447 ST on 7th Dec",
         answer2: "1447 UTC on 7th Dec",
@@ -671,7 +665,6 @@ const questions = [
         correctAnswer: 3
       },
     {
-
     question:"If the LMT in Auckland, New Zealand (35*00´S 174*39´E) is  2359 LMT on 8 december, what is the LMT in Los angeles, California USA(33N 118W)",
         answer1: "0428 LMT on 8th Dec",
         answer2: "0418 LMT on 8th Dec",
@@ -680,7 +673,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"What is the time (UTC) of sunrise on 6th December at Vancouver, British colombia, canada (50*N 123*W) ",
         answer1: "15:40 on 6th Dec",
         answer2: "12:54 on 6th Dec",
@@ -689,7 +681,6 @@ const questions = [
         correctAnswer: 3
       },
     {
-
     question:"What is the UTC of sunrise in Cape Town, South africa (35S 018E) on 7th December?",
         answer1: "0327 GMT",
         answer2: "0327 LMT",
@@ -698,7 +689,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"What is the standard time (ST) of sunset in Doha, Qatar ( 25*00`N 051*32´E) on 14 october?",
         answer1: "1709 ST",
         answer2: "1709 UTC",
@@ -707,7 +697,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"What is the standard time (ST) of sunset in Doha, Qatar ( 25*00`N 051*32´E) on 14 october?",
         answer1: "1709 ST",
         answer2: "1709 UTC",
@@ -716,7 +705,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"What is the standard time (ST) of sunset in Doha, Qatar ( 25*00`N 051*32´E) on 14 october?",
         answer1: "1709 ST",
         answer2: "1709 UTC",
@@ -725,7 +713,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"An aircraft takes off from Guam at 2300 ST on 30 april local date. After a flight of 11 hr 15 min, it lands at Los angeles(california) .What is the standard time and local date of arrival(assume summer time rules apply) ?",
         answer1: "1715 on 29 april",
         answer2: "1715 on 30 april",
@@ -734,7 +721,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"If the Standard time in casablanca, Morocco( 34*N 008W) is 2300ST on 8th December, what is the summer time in auckland, New zealand (36*S 175*E)",
         answer1: "1400 hrs summer time on 9th december",
         answer2: "1300 hrs summer time on 9th december",
@@ -743,7 +729,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"What is the standard time in Hawai when it is 0600 ST on the 16th of February in queensland, australia.",
         answer1: "1000 ST on the 15th",
         answer2: "1000 UTC on the 15th",
@@ -752,7 +737,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"When approaching the international date line from the east, you....",
         answer1: "Should be prepared to decrease your date by 1.",
         answer2: "Should be prepared to increase your date by 1.",
@@ -761,15 +745,11 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"Standard time is",
         answer1: "The time enforced by the Teodors authority to be used in  country or an area.",
         answer2: "The time enforced by the ISIS authority to be used in  country or an area.",
         answer3: "The time enforced by the legal authority to be used in  country or an area.",
         answer4: "The time enforced by the united nations to be used in  country or an area.",
         correctAnswer: 3
-
-
-
   }
 ];
