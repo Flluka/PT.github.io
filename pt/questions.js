@@ -299,7 +299,6 @@ const questions = [
     answer3: "229°(T)",
     answer4: "049°(T)",
     correctAnswer: 3
-
     },
   {
     question: "Given: Magnetic Heading 311°, Drift angle 10°left, Relative bearing of NDB 270°(R). what is the magnetic bearing of the NDB measured from the aircraft (QDM to the NDB) ",
@@ -308,7 +307,6 @@ const questions = [
     answer3: "221°",
     answer4: "180°",
     correctAnswer: 3
-
    },
   {
     question: "An aircraft is planned to fly from position A to position , distance 250NM at an average GS of 115kts. It departs A at 09:00UTC. After flying 75NM along track from A, the aircraft is 1.5NM behind planned time. Using the actual GS experienced, what is the revised ETA at B?",
@@ -317,8 +315,7 @@ const questions = [
     answer3: "1044UTC",
     answer4: "1050UTC",
     correctAnswer: 1
-
-       },
+    },
   {
     question: "On a direct mercator chart, a rhumb line appears as a:",
     answer1: "Straight line",
@@ -353,7 +350,6 @@ const questions = [
     answer3: "8.8NM R ",
     answer4: "4.7NM L",
     correctAnswer: 1
-
    },
   {
     question: "A lambert conformal chart has standard parallels of 48°N and 60°N. What is constant of the cone?",
@@ -365,39 +361,35 @@ const questions = [
   },
 {
     Question:"With respect to chart projections, what does conformal mean?",
-        answer1: "Angles on the earth varies with longitude",
-        answer2: "Angles on the earth are variable",
-        answer3: "Angles on the earth are incorrectly represented on the chart",
-        answer4: "Angles on the earth are correctly represented on the chart",
-        correctAnswer: 4
+    answer1: "Angles on the earth varies with longitude",
+    answer2: "Angles on the earth are variable",
+    answer3: "Angles on the earth are incorrectly represented on the chart",
+    answer4: "Angles on the earth are correctly represented on the chart",
+    correctAnswer: 4
       },
     {
-
-        Question:"   The polar stereographic projection is a ",
-        answer1: "a conical projection",
-        answer2: "A plane projection ",
-        answer3: "A cylindrical projection",
-        answer4: "oblique spheroid",
-        correctAnswer: 2
+    Question:"   The polar stereographic projection is a ",
+    answer1: "a conical projection",
+    answer2: "A plane projection ",
+    answer3: "A cylindrical projection",
+    answer4: "oblique spheroid",
+    correctAnswer: 2
       },
     {
-
-        question:"Parallels of latitude on a direct mercator chart are",
-        answer1: "Equally spaced lines",
-        answer2: "Parallel straight lines unequally spaced. ",
-        answer3: "Parallel straight lines equally spaced.",
-        answer4: "lines joining at equal magnetic dip",
-        correctAnswer: 2
+    question:"Parallels of latitude on a direct mercator chart are",
+    answer1: "Equally spaced lines",
+    answer2: "Parallel straight lines unequally spaced. ",
+    answer3: "Parallel straight lines equally spaced.",
+    answer4: "lines joining at equal magnetic dip",
+    correctAnswer: 2
       },
     {
-
-
-        question:"On a direct mercator, meridians are:",
-        answer1: "Equally deviation.",
-        answer2: "Lines with zero variation",
-        answer3: "Parallel, equally spaced, straight lines",
-        answer4: "Equally spaced lines",
-        correctAnswer: 3
+    question:"On a direct mercator, meridians are:",
+    answer1: "Equally deviation.",
+    answer2: "Lines with zero variation",
+    answer3: "Parallel, equally spaced, straight lines",
+    answer4: "Equally spaced lines",
+    correctAnswer: 3
       },
     {
         question:"On a normal mercator chart, scale is",
@@ -408,7 +400,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-    
         question:"On a direct mercator  chart at latitude 15*S a certain length represents a distance of 120 nm on the earth. The same length on the chart will represent on the Earth, at latitude 10*N, a distance of",
         answer1: "122.3 nm",
         answer2: "119 nm ",
@@ -418,14 +409,13 @@ const questions = [
       },
     {
     question:"On a lambert conformal conic chart, greath circles that are not meridians are:",
-        answer1: "Convex lines joining at the poles",
-        answer2: "Straight lines",
-        answer3: "Curves concave to the parallel of origin",
-        answer4: "Curves convex to the parallel of origin",
-        correctAnswer: 3
+    answer1: "Convex lines joining at the poles",
+    answer2: "Straight lines",
+    answer3: "Curves concave to the parallel of origin",
+    answer4: "Curves convex to the parallel of origin",
+    correctAnswer: 3
       },
     {
-
     question:"On a lambert chart with parallel of origin of 40*S , a straight line track is drawn from cape town, south africa(33S 020E) to Buenos Aires (35S 061W) . If the outbound track from cape town is 255*, what will be the",
         answer1: "068(m) ",
         answer2: "283 (T)",
@@ -434,7 +424,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"On a lambert chart with convergence factor, a straight line is drawn from Bahrain(26N 050E) in direction of 080*T measured at Bahrain. What will be the direction of track measured at 072E.",
         answer1: "259(T)",
         answer2: "091 (T)",
@@ -443,7 +432,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"Grid convergence",
         answer1: "Is southerly for positions east of the grid datum meridian in the northern hemisphere.",
         answer2: "Is easterly for positions east of the grid datum meridian in the northern hemisphere.",
@@ -452,7 +440,6 @@ const questions = [
         correctAnswer: 3
       },
     {
-
     question:"An aircraft is at 75*N 140*W steering 330*T. For a grid aligned with the prime meridian the grid track on a polar stereographic chart will be.",
         answer1: "Grid track = 110* ",
         answer2: "Grid track = 115* ",
@@ -461,7 +448,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"Grivation",
         answer1: "Is the sum of Grid convergence and true heading",
         answer2: "Is the sum of Grid convergence and magnetic heading",
@@ -470,7 +456,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"If the grid convergence is 100*E and variation is 40*W, what is the Grivation?",
         answer1: "060E",
         answer2: "060W",
@@ -488,7 +473,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"Using  chart E(LO) 1/2.DME distance from Connaught(5354.8 N 00849.1W) is 28 nm and DME distance from Cranmore (53*18.1´N 008*56.5´W) is 35 nm. The aircraft is on a easterly heading and both DME´s are increasing. What is the position of the aircraft?",
         answer1: "N57*37´W008*15´",
         answer2: "N51*37´W008*18´",
@@ -497,7 +481,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"On a direct mercator  chart at latitude 15*S a certain length represents a distance of 120 nm on the earth. The same length on the chart will represent on the Earth, at latitude 10*N, a distance of",
         answer1: "122.3 nm",
         answer2: "119 nm ",
@@ -506,7 +489,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"Given Magnetid heading 026*. Drift angle 20*R . Relative bearing of NDB 160*(R) . What is the magnetic bearing of the aircraft measured from the NDB?",
         answer1: "009*",
         answer2: "006*",
@@ -515,7 +497,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"On a 12% glide slope with a groundspeed of 540 kts the required rate of descent is",
         answer1: "6500 ft/min",
         answer2: "6400 ft/min",
@@ -524,7 +505,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"The pressure altitude is FL55 , the qnh is 994 hPa, the SAT is +25*C . What is the density altitude",
         answer1: "6700 ft",
         answer2: "7900 ft",
@@ -533,7 +513,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"Given: Aircraft at FL150 overhead an airport. Elevation of airport 720 ft. QNH is 1003. OAT at FL150 is -5*C. What is the True alt?",
         answer1: "15370 ft",
         answer2: "14760 ft",
@@ -542,7 +521,6 @@ const questions = [
         correctAnswer: 1
       },
     {
-
     question:"What is the weight in KG of 380 us gallons at a specific gravity of 0,78?",
         answer1: "1248 kg",
         answer2: "1468 kg",
@@ -560,7 +538,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"An MEF figure of 16 on a topographical chart indicates: ",
         answer1: "The maximum elevation in the quadrangle is 1300 ft",
         answer2: "The maximum elevation in the quadrangle is 1600 ft",
@@ -569,7 +546,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"Given distance A to B is 90 nm. Fix is obtained 60 nm along and 4 nm to the right of course..",
         answer1: "3R",
         answer2: "8L",
@@ -578,11 +554,10 @@ const questions = [
         correctAnswer: 3
       },
     {
-
     question:"What is the approximate latitude of the antartic circle?",
         answer1: "0/0",
         answer2: "66 1/2* S",
-        answer3: "23 ½ n",
+        answer3: "23 1/2 N",
         answer4: "66 1/2* N",
         correctAnswer: 2
       },
@@ -596,7 +571,6 @@ const questions = [
         correctAnswer: 3
       },
     {
-
     question:"The angle between the plane of ecliptic and the plane of equator is approximately:",
         answer1: "16.5*",
         answer2: "23.5*",
@@ -605,7 +579,6 @@ const questions = [
         correctAnswer: 2
       },
     {
-
     question:"The direction of the earths rotation on its axis is such that:",
         answer1: "Observed from the point above the north pole, the rotation is counter clockwise in easterly direction.",
         answer2: "Observed from the point above the north pole, the rotation is westerly.",
@@ -614,7 +587,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"The compression factor of the earth is approximately:",
         answer1: "0.0023",
         answer2: "0.002",
@@ -631,7 +603,6 @@ const questions = [
         correctAnswer: 3
       },
     {
-
     question:"At what approximate date is the earth closest to the sun (perihilion)?",
         answer1: "end of december ",
         answer2: "end of july",
@@ -640,7 +611,6 @@ const questions = [
         correctAnswer: 4
       },
     {
-
     question:"The term Aphelion is used to describe:",
         answer1: "The situation when the distance between the sun and the earth is the longest.",
         answer2: "The situation when the distance between the sun and the earth is the closest.",
