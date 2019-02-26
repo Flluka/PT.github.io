@@ -408,14 +408,7 @@ const questions = [
         correctAnswer: 2
       },
     {
-        question:"If the scale at 60S on a direct mercator is 10: 10 000 000 -> what is the scale at equator?",
-        answer1: "1:3 000 000",
-        answer2: "1: 7 000 000 ",
-        answer3: "1:15 000 000”,
-        answer4: "",
-        correctAnswer: 4
-      },
-    {
+    
         question:"On a direct mercator  chart at latitude 15*S a certain length represents a distance of 120 nm on the earth. The same length on the chart will represent on the Earth, at latitude 10*N, a distance of",
         answer1: "122.3 nm",
         answer2: "119 nm ",
@@ -469,7 +462,7 @@ const questions = [
       },
     {
 
-    question:""Grivation"",
+    question:"Grivation",
         answer1: "Is the sum of Grid convergence and true heading",
         answer2: "Is the sum of Grid convergence and magnetic heading",
         answer3: "Is the sum of Grid convergence and deviation",
@@ -630,8 +623,7 @@ const questions = [
         correctAnswer: 3
       },
     {
-
-    question:"Given distance "A to B is 90 nm. Fix is obtained 60 nm along and 4 nm to the right of course",
+    question: "Given distance A to B is 90 nm Fix is obtained 60 nm along and 4 nm to the right of course",
         answer1: "3R",
         answer2: "8L",
         answer3: "12L",
