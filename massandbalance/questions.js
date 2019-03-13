@@ -54,7 +54,7 @@ const questions = [
     answer2: "31 000kg",
     answer3: "37 000kg",
     answer4: "30 000kg",
-    correctAnswer: 4
+    correctAnswer: 2
   },
   {
     question: "Which of the following is not true regarding the effects of the CG being too far forwards?",
@@ -86,7 +86,7 @@ const questions = [
     answer2: "Range, maximum speed and rate of climb all reduce ",
     answer3: "The take off distance and fuel flow both increase",
     answer4: "The aeroplane may overrun on landing due to increased stalling speed, redcued deceleration and possivle brake fade ",
-    correctAnswer: 4
+    correctAnswer: 1
   },
   {
     question: "The PLLM is:",
@@ -160,6 +160,62 @@ const questions = [
     answer3: "4000kg",
     answer4: "8000kg",
     correctAnswer: 4
-  
+  },
+  {
+    question: "A B767 -300ER has a maximum take off weight of 401 000lb, what is the weight in kilograms",
+    answer1: "182 050kg",
+    answer2: "190 000kg",
+    answer3: "143 400kg",
+    answer4: "82 000kg",
+    correctAnswer: 1
+  },
+  {
+    question: "What is useful load? ",
+    answer1: "The mass of the traffic load and fuel",
+    answer2: "The mass of Dry Operating Mass and Take Off Mass",
+    answer3: "The mass of Dry operating Mass and Zero Fuel Mass",
+    answer4: "The mass of Operating Mass and Landing Mass",
+    correctAnswer: 1
+  },
+  {
+    question: "What is the DOM plus the Traffic Load?",
+    answer1: "Landing Mass",
+    answer2: "Dry Operating Mass",
+    answer3: "Zero Fuel Mass",
+    answer4: "Take Off Mass",
+    correctAnswer: 3
+  },
+  {
+    question: "Which of the following is not true regarding effects of overloading?",
+    answer1: "The stall speed and angle of climb decrease",
+    answer2: "The stall speed and angle of climb increase",
+    answer3: "The take off distance and fuel flow both increase",
+    answer4: "Range, maximum speed and rate of climb all reduce ",
+    correctAnswer: 2
+  },
+  {
+    question: "What is the heaviest mass that can be placed in a 20lb crate 4ft 8inches long if the maximum running load is 7.26 per inch",
+    answer1: "297kg",
+    answer2: "397kg",
+    answer3: "560kg",
+    answer4: "397lb",
+    correctAnswer: 2
+  },
+  {
+    question: "What is the Traffic load?",
+    answer1: "The combined mass of the passengers, baggage, cargo and usuable fuel",
+    answer2: "The combined mass of crew and passengers excluding any baggage or cargo",
+    answer3: "The combined mass of the passengers, baggage, cargo and non revenue load",
+    answer4: "The combined mass of flight crew, passengers, baggage, cargo and usuable fuel",
+    correctAnswer: 3
+
+  },
+  {
+    question: "What is the operating mass minus the useable fuel known as?",
+    answer1: "Basic Equipment Mass",
+    answer2: "Operating mass",
+    answer3: "Dry Operating mass",
+    answer4: "Traffic Load",
+    correctAnswer: 3
   }
 ];
