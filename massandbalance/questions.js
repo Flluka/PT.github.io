@@ -28,7 +28,7 @@ const questions = [
     question: "The MZFM is: ",
     answer1: "maximum mass due to landing runway limitations ",
     answer2: "The maximum permitted take off mass, which is greater of the limiting structural and performance take off mass",
-    answer3: "The maximum mass authorized for a certain aeroplane not including traffic load na fuel load",
+    answer3: "The maximum mass authorized for a certain aeroplane not including traffic load no fuel load",
     answer4: "the maximum permissible aeroplane mass with no useable fuel",
     correctAnswer: 4
   },
