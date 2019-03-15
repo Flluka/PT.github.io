@@ -186,14 +186,6 @@ const questions = [
     correctAnswer: 3
   },
   {
-    question: "Which of the following is not true regarding effects of overloading?",
-    answer1: "The stall speed and angle of climb decrease",
-    answer2: "The stall speed and angle of climb increase",
-    answer3: "The take off distance and fuel flow both increase",
-    answer4: "Range, maximum speed and rate of climb all reduce ",
-    correctAnswer: 2
-  },
-  {
     question: "What is the heaviest mass that can be placed in a 20lb crate 4ft 8inches long if the maximum running load is 7.26 per inch",
     answer1: "297kg",
     answer2: "397kg",
